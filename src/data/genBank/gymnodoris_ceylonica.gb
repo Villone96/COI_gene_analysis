@@ -1,0 +1,58 @@
+LOCUS       KY806818                 658 bp    DNA     linear   INV 07-NOV-2017
+DEFINITION  Gymnodoris ceylonica isolate UQ Lizard Island cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KY806818
+VERSION     KY806818.1
+KEYWORDS    .
+SOURCE      mitochondrion Gymnodoris ceylonica
+  ORGANISM  Gymnodoris ceylonica
+            Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Gastropoda;
+            Heterobranchia; Euthyneura; Nudipleura; Nudibranchia; Doridina;
+            Polyceroidea; Gymnodorididae; Gymnodoris.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Wilson,N.G., Joerger,K.M., Brenzinger,B. and Schroedl,M.
+  TITLE     Phylogenetic placement of the enigmatic worm-like Rhodopemorpha
+            slugs as basal Heterobranchia
+  JOURNAL   J. Molluscan Stud. 83 (4), 399-408 (2017)
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Wilson,N.G., Joerger,K.M., Brenzinger,B. and Schroedl,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2017) Western Australian Museum, 49 Kew St,
+            Welshpool, Western Australia 6106, Australia
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Gymnodoris ceylonica"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="UQ Lizard Island"
+                     /db_xref="taxon:2052533"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ATS17242.1"
+                     /translation="SLYFFFGMWCGLVGTGLSLLIRFELGTAGAFLGDDHFYNVIVTA
+                     HAFVMIFFMVMPVTMGGFGNWFIPLLIGAPDMSFPRMNNMSFWFLPPSFVLLLCSTLM
+                     EGGAGTGWTVYPPLSGPVGHGGASVDLAIFSLHLAGASSLLASINFITTIFNMRSTAM
+                     SFERVSLFVWSLLVTSFLLLLSLPVLAGAITMLLTDRNFNTSFFDPAGGGDPILYQHL
+                     X"
+ORIGIN      
+        1 atcattatat ttcttctttg gtatatgatg tggtttagta ggaactggat taagattatt
+       61 aattcgtttt gaactaggaa cagcaggtgc gtttttaggt gatgatcatt tttataatgt
+      121 tattgtaact gctcatgcat ttgttataat tttttttata gttatacctg taactatagg
+      181 aggattcgga aattgattta tccctttatt aattggagcc cctgatataa ggtttcctcg
+      241 gataaataat ataagatttt gatttttacc tccatctttt gtcttacttt tatgttctac
+      301 tctaatggag gggggagctg gaacaggttg aactgtctat cctcctctat caggtcctgt
+      361 tggacatggg ggagcttctg ttgatttagc tattttttct ttacatctag ctggggcttc
+      421 atctttacta gcttctatta acttcattac tactattttt aacatacgtt ccactgctat
+      481 aagctttgag cgagtaaggt tatttgtttg gtctttatta gtaacttctt tccttttatt
+      541 attatcttta cctgtgctag ctggtgctat tactatatta cttacagatc gtaatttcaa
+      601 tactagtttt ttcgatcctg ctggaggagg agatcctatc ttgtatcaac atctatnt
+//
+

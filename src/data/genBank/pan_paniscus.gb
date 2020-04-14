@@ -1,0 +1,234 @@
+LOCUS       AY544155                 603 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pan paniscus PR00092 cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   AY544155
+VERSION     AY544155.1
+KEYWORDS    .
+SOURCE      mitochondrion Pan paniscus (pygmy chimpanzee)
+  ORGANISM  Pan paniscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pan.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Lorenz,J.G., Vosbikian,A.D., Jackson,W.E., Hanner,R. and Beck,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-2004) Molecular Biology, Coriell Institute for
+            Medical Research, 403 Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Pan paniscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="blood from female bonobo"
+                     /db_xref="taxon:9597"
+                     /cell_line="PR00092"
+                     /cell_type="lymphoblastoid"
+                     /note="derived from same animal as sequence in GenBank
+                     Accession Number EU185725"
+     gene            <1..>603
+                     /gene="COI"
+     CDS             <1..>603
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAS65923.1"
+                     /translation="VLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVM
+                     PIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASAMVEAGAGTGWTVY
+                     PPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWS
+                     VLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGD"
+ORIGIN      
+        1 gagttctggg cacagcccta agtctcctta ttcgagctga attaggccaa ccaggcaacc
+       61 ttctaggtaa cgaccacatc tataatgtca ttgtcacagc ccatgcgttc gtaataatct
+      121 ttttcatagt aatacctatc ataatcggag gcttcggcaa ctggctagtt cccttgataa
+      181 ttggtgcccc cgacatggca ttcccccgta taaacaacat aagcttctga ctcctacccc
+      241 cttctctcct acttctactt gcatctgcca tagtagaagc cggcgccgga acaggttgga
+      301 cagtctaccc tcccttagca ggaaactatt cgcatcctgg agcctccgta gacctaacca
+      361 tcttctcctt gcacctggca ggcgtctcct ctatcctagg agccattaac ttcatcacaa
+      421 caatcattaa tataaaacct cctgccataa cccaatacca aacacccctt ttcgtctgat
+      481 ccgtcctaat tacagcagtc ttacttctcc tatccctccc agtcctagct gctggcatca
+      541 ccatactatt aacagatcgt aacctcaaca ctaccttctt cgacccagct gggggaggag
+      601 acc
+//
+
+LOCUS       AY544156                 603 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pan paniscus PR00251 cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   AY544156
+VERSION     AY544156.1
+KEYWORDS    .
+SOURCE      mitochondrion Pan paniscus (pygmy chimpanzee)
+  ORGANISM  Pan paniscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pan.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Lorenz,J.G., Vosbikian,A.D., Jackson,W.E., Hanner,R. and Beck,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-2004) Molecular Biology, Coriell Institute for
+            Medical Research, 403 Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Pan paniscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="blood from male bonobo"
+                     /db_xref="taxon:9597"
+                     /cell_line="PR00251"
+                     /cell_type="lymphoblastoid"
+     gene            <1..>603
+                     /gene="COI"
+     CDS             <1..>603
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAS65924.1"
+                     /translation="VLGTALSLLIRSELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVM
+                     PIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASAMVEAGAGTGWTVY
+                     PPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWS
+                     VLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGD"
+ORIGIN      
+        1 gagttctggg cacagcccta agtctcctta ttcgatctga actaggccaa ccaggcaacc
+       61 ttctaggtaa cgaccacatc tacaatgtca ttgtcacagc ccatgcgttc gtaataatct
+      121 ttttcatagt aatacctatc ataatcggag gcttcggcaa ctgactagtt cccttgataa
+      181 tcggtgcccc cgacatggca ttcccccgca tgaacaacat aagcttctga ctcttacccc
+      241 cttctctcct acttctactt gcatctgcca tagtagaagc cggcgccgga acaggttgga
+      301 cggtctaccc tcccttagca ggaaactatt cgcatcctgg agcctccgta gacctaacca
+      361 tcttctcctt gcacctggca ggcgtctcct ctatcctagg agccattaac ttcatcacaa
+      421 caatcattaa tataaaacct cctgccataa cccaatacca aacacccctc ttcgtctgat
+      481 ccgtcctaat cacagcagtc ttacttctcc tatccctccc agtcctagct gctggcatca
+      541 ccatactatt aacagatcgt aacctcaaca ctaccttctt cgacccagct gggggaggag
+      601 acc
+//
+
+LOCUS       AY544161                 603 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pan paniscus PR00367 cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   AY544161
+VERSION     AY544161.1
+KEYWORDS    .
+SOURCE      mitochondrion Pan paniscus (pygmy chimpanzee)
+  ORGANISM  Pan paniscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pan.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Lorenz,J.G., Vosbikian,A.D., Jackson,W.E., Hanner,R. and Beck,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-2004) Molecular Biology, Coriell Institute for
+            Medical Research, 403 Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Pan paniscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="blood from wild born female bonobo"
+                     /db_xref="taxon:9597"
+                     /cell_line="PR00367"
+                     /cell_type="lymphoblastoid"
+     gene            <1..>603
+                     /gene="COI"
+     CDS             <1..>603
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAS65929.1"
+                     /translation="VLGTALSLLIRAELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVM
+                     PIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASAMVEAGAGTGWTVY
+                     PPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWS
+                     VLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGD"
+ORIGIN      
+        1 gagttctggg cacagcccta agtctcctta ttcgagctga attaggccaa ccaggcaacc
+       61 ttctaggtaa cgaccacatc tataatgtca ttgtcacagc ccatgcgttc gtaataatct
+      121 ttttcatagt aatacctatc ataatcggag gcttcggcaa ctggctagtt cccttgataa
+      181 ttggtgcccc cgacatagca ttcccccgta taaacaacat aagcttctga ctcctacccc
+      241 cttctctcct acttctactt gcatctgcca tagtagaagc cggcgccgga acaggttgga
+      301 cggtctaccc tcccttagca ggaaactatt cgcatcctgg agcctccgta gacctaacca
+      361 tcttctcctt gcacctggca ggcgtctcct ctatcctagg agccattaac ttcatcacaa
+      421 caatcattaa tataaaacct cctgccataa cccaatacca aacacccctt ttcgtctgat
+      481 ccgtcctaat cacagcagtc ttacttctcc tatccctccc agtcctagct gctggcatca
+      541 ccatactatt aacagatcgt aacctcaaca ctaccttctt cgacccagct gggggaggag
+      601 acc
+//
+
+LOCUS       AY544162                 603 bp    DNA     linear   PRI 26-JUL-2016
+DEFINITION  Pan paniscus PR00661 cytochrome oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   AY544162
+VERSION     AY544162.1
+KEYWORDS    .
+SOURCE      mitochondrion Pan paniscus (pygmy chimpanzee)
+  ORGANISM  Pan paniscus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Pan.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   Lorenz,J.G., Jackson,W.E., Beck,J.C. and Hanner,R.
+  TITLE     The problems and promise of DNA barcodes for species diagnosis of
+            primate biomaterials
+  JOURNAL   Philos. Trans. R. Soc. Lond., B, Biol. Sci. 360 (1462), 1869-1877
+            (2005)
+   PUBMED   16214744
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Lorenz,J.G., Vosbikian,A.D., Jackson,W.E., Hanner,R. and Beck,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-FEB-2004) Molecular Biology, Coriell Institute for
+            Medical Research, 403 Haddon Avenue, Camden, NJ 08103, USA
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /organism="Pan paniscus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolation_source="blood from male bonobo"
+                     /db_xref="taxon:9597"
+                     /cell_line="PR00661"
+                     /cell_type="lymphoblastoid"
+     gene            <1..>603
+                     /gene="COI"
+     CDS             <1..>603
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AAS65930.1"
+                     /translation="VLGTALSLLIRSELGQPGNLLGNDHIYNVIVTAHAFVMIFFMVM
+                     PIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSLLLLLASAMVEAGAGTGWTVY
+                     PPLAGNYSHPGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAMTQYQTPLFVWS
+                     VLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGD"
+ORIGIN      
+        1 gagttctggg cacagcccta agtctcctta ttcgatctga actaggccaa ccaggcaacc
+       61 ttctaggtaa cgaccacatc tacaatgtca ttgtcacagc ccatgcgttc gtaataatct
+      121 ttttcatagt aatacctatc ataatcggag gcttcggcaa ctgactagtt cccttgataa
+      181 tcggtgcccc cgacatggca ttcccccgca tgaacaacat aagcttctga ctcttacccc
+      241 cttctctcct acttctactt gcatctgcca tagtagaagc cggcgccgga acaggttgga
+      301 cggtctaccc tcccttagca ggaaactatt cgcatcctgg agcctccgta gacctaacca
+      361 tcttctcctt gcacctggca ggcgtctcct ctatcctagg agccattaac ttcatcacaa
+      421 caatcattaa tataaaacct cctgccataa cccaatacca aacacccctc ttcgtctgat
+      481 ccgtcctaat cacagcagtc ttacttctcc tatccctccc agtcctagct gctggcatca
+      541 ccatactatt aacagatcgt aacctcaaca ctaccttctt cgacccagct gggggaggag
+      601 acc
+//
+

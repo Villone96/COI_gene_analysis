@@ -1,0 +1,572 @@
+LOCUS       MN389006                 649 bp    DNA     linear   INV 03-MAR-2020
+DEFINITION  Nerita litterata isolate LSGB_A_064 cytochrome c oxidase subunit I
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   MN389006
+VERSION     MN389006.1
+KEYWORDS    .
+SOURCE      mitochondrion Nerita litterata
+  ORGANISM  Nerita litterata
+            Eukaryota; Metazoa; Spiralia; Lophotrochozoa; Mollusca; Gastropoda;
+            Neritimorpha; Cycloneritida; Neritoidea; Neritidae; Nerita.
+REFERENCE   1  (bases 1 to 649)
+  AUTHORS   Ran,K., Li,Q., Qi,L., Li,W. and Kong,L.
+  TITLE     DNA barcoding for identification of marine gastropod species from
+            Hainan island, China
+  JOURNAL   Fish. Res. 225, 105504 (2020)
+REFERENCE   2  (bases 1 to 649)
+  AUTHORS   Ran,K., Li,Q., Qi,L., Li,W. and Kong,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-AUG-2019) Key Laboratory of Mariculture, Ministry of
+            Education, Ocean University of China, 5 Yushan Road, Qingdao,
+            Shandong 266003, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..649
+                     /organism="Nerita litterata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="LSGB_A_064"
+                     /db_xref="taxon:537777"
+     gene            <1..>649
+                     /gene="COI"
+     CDS             <1..>649
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="QIE02629.1"
+                     /translation="FMFGVWSGLVGTALSLLIRAELGQPGALLGDDQLYNVIVTAHAF
+                     VMIFFLVMPMMIGGFGNWLVPLMLGAPDMAFPRLNNMSFWLLPPSLTLLLASSAVESG
+                     VGTGWTVYPPLSGNLAHAGGSVDLAIFSLHLAGVSSILGAVNFITTIINMRWQGMQFE
+                     RLPLFVWSVKITAILLLLSLPVLAGAITMLLTDRNFNTSFFDPAGGGDPILYQHLF"
+ORIGIN      
+        1 atttatgttt ggtgtatgat ctggtttagt tgggactgct ttaagtctct tgattcgggc
+       61 tgagcttggg cagcctgggg ctcttttggg tgatgatcag ttgtataatg taattgttac
+      121 tgctcacgca tttgtgataa ttttcttttt ggtgatgcct atgatgattg ggggatttgg
+      181 gaactgattg gttcctttga tattaggggc tccggatatg gcgtttcctc gattgaataa
+      241 tataagtttt tgattgcttc ctccctcatt aactttactt cttgcttctt cggctgttga
+      301 gagtggtgtg gggacaggtt gaacagtgta tcctccttta tctggtaatc tggctcacgc
+      361 aggaggttct gtagatttgg ctattttttc gcttcattta gctggtgtat cttctatttt
+      421 gggggctgta aatttcatta ctacaattat taatatgcga tggcagggga tgcagtttga
+      481 gcggttgcct ctctttgttt gatctgtgaa gattactgct atccttttat tgctgtcact
+      541 acctgttctt gcgggtgcga ttactatgtt gttaactgat cggaacttta atacatcttt
+      601 ctttgaccct gccggaggtg gtgatcctat tttgtatcaa catttattt
+//
+
+LOCUS       JN677550                 646 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Nerita litterata voucher PB01 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   JN677550
+VERSION     JN677550.1
+KEYWORDS    .
+SOURCE      mitochondrion Nerita litterata
+  ORGANISM  Nerita litterata
+            Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Gastropoda;
+            Neritimorpha; Cycloneritimorpha; Neritoidea; Neritidae; Nerita.
+REFERENCE   1  (bases 1 to 646)
+  AUTHORS   Chee,S.Y. and Mohd,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-SEP-2011) Center of Marine and Coastal Studies,
+            Universiti Sains Malaysia, Minden, George Town, Penang 11800,
+            Malaysia
+FEATURES             Location/Qualifiers
+     source          1..646
+                     /organism="Nerita litterata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PB01"
+                     /db_xref="BOLD:NSWM018-11.COI-5P"
+                     /db_xref="taxon:537777"
+                     /country="Malaysia: Malaysia Straits of Malacca, Kedah
+                     Darul Makmur"
+                     /lat_lon="4.18167 N 109.169 E"
+                     /collection_date="21-Jul-2011"
+                     /collected_by="Chee Su Yin, Noor Adelyna Akib, Mohd.
+                     Lutfi, Jamsari Amirul Firdaus Jamaluddin"
+                     /identified_by="Su Yin Chee"
+                     /PCR_primers="fwd_seq: ggtcaacaaatcataaagatattgg, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>646
+                     /gene="COI"
+     CDS             <1..>646
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AEV21837.1"
+                     /translation="VWSGLVGTALSLLIRAELGQPGALLGDDQLYNVIVTAHAFVMIF
+                     FLVMPMMIGGFGNWLVPLMLGAPDMAFPRLNNMSFWLLPPSLTLLLASSAVESGVGTG
+                     WTVYPPLSGNLAHAGGSVDLAIFSLHLAGVSSILGAVNFITTIINMRWQGMQFERLPL
+                     FVWSVKITAILLLLSLPVLAGAITMLLTDRNFNTSFFDPAGGGDPILYQHLFWFF"
+ORIGIN      
+        1 gtgtgatctg gtttagttgg gactgcttta agtctcttga ttcgggctga gcttgggcag
+       61 cctggggctc ttttgggtga tgatcagttg tataatgtaa ttgttactgc tcatgcattt
+      121 gtgataattt tctttttggt gatgcctatg atgattgggg gatttgggaa ctgattggtt
+      181 cctttaatat taggggctcc ggatatggcg tttcctcgat tgaataatat aagtttctga
+      241 ttgcttcctc cctcattaac tttacttctt gcttcttcgg ctgttgagag tggtgtgggg
+      301 acaggttgaa cagtgtatcc tcctttatct ggtaatctgg ctcatgcagg aggttctgta
+      361 gatttggcta ttttttcgct tcatttagct ggtgtatctt ctattttggg ggctgtaaat
+      421 ttcattacta caattattaa tatgcgatgg caggggatgc agtttgagcg gttgcctctc
+      481 tttgtttgat ctgtgaagat tactgctatc cttttattgc tgtcactacc tgttcttgcg
+      541 ggtgcgatta ctatgttgtt aactgatcgg aactttaata catctttctt tgaccctgcc
+      601 ggaggtggtg atcctatttt atatcaacat ttattttgat tttttg
+//
+
+LOCUS       JN677551                 646 bp    DNA     linear   INV 25-JUL-2016
+DEFINITION  Nerita litterata voucher PB03 cytochrome oxidase subunit 1 (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   JN677551
+VERSION     JN677551.1
+KEYWORDS    .
+SOURCE      mitochondrion Nerita litterata
+  ORGANISM  Nerita litterata
+            Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Gastropoda;
+            Neritimorpha; Cycloneritimorpha; Neritoidea; Neritidae; Nerita.
+REFERENCE   1  (bases 1 to 646)
+  AUTHORS   Chee,S.Y. and Mohd,S.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-SEP-2011) Center of Marine and Coastal Studies,
+            Universiti Sains Malaysia, Minden, George Town, Penang 11800,
+            Malaysia
+FEATURES             Location/Qualifiers
+     source          1..646
+                     /organism="Nerita litterata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="PB03"
+                     /db_xref="BOLD:NSWM016-11.COI-5P"
+                     /db_xref="taxon:537777"
+                     /country="Malaysia: Kedah, Pulau Bidan"
+                     /lat_lon="5.759 N 100.288 E"
+                     /collection_date="21-Jul-2011"
+                     /collected_by="Su Yin Chee, Noor Adelyna Akib"
+                     /identified_by="Su Yin Chee"
+                     /PCR_primers="fwd_seq: ggtcaacaaatcataaagatattgg, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+     gene            <1..>646
+                     /gene="COI"
+     CDS             <1..>646
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AEV21838.1"
+                     /translation="VWSGLVGTALSLLIRAELGQPGALLGDDQLYNVIVTAHAFVMIF
+                     FLVMPMMIGGFGNWLVPLMLGAPDMAFPRLNNMSFWLLPPSLTLLLASSAVESGVGTG
+                     WTVYPPLSGNLAHAGGSVDLAIFSLHLAGVSSILGAVNFITTIINMRWQGMQFERLPL
+                     FVWSVKITAILLLLSLPVLAGAITMLLTDRNFNTSFFDPAGGGDPILYQHLFWFF"
+ORIGIN      
+        1 gtatgatctg gtttagttgg gactgcttta agtctcttga ttcgggctga gcttgggcag
+       61 cctggggctc ttttgggtga tgatcagttg tataatgtaa ttgttactgc tcacgcattt
+      121 gtgataattt tctttttggt gatgcctatg atgattgggg gatttgggaa ctgattggtt
+      181 cctttgatat taggggctcc ggatatggcg tttcctcgat tgaataatat aagtttttga
+      241 ttgcttcctc cctcattaac tttacttctt gcttcttcgg ctgttgagag tggtgtgggg
+      301 acaggttgaa cagtgtatcc tcctttatct ggtaatctgg ctcatgcagg aggttctgta
+      361 gatttggcta ttttttcgct ccatttagct ggtgtatctt ctattttggg ggctgtaaat
+      421 ttcattacta caattattaa tatgcgatgg caggggatgc aatttgagcg gttgcctctc
+      481 tttgtttgat ctgtgaagat tactgctatc cttttattgc tgtcactacc tgttcttgcg
+      541 ggtgcgatta ctatgttgtt aactgatcgg aactttaata catctttctt tgaccctgcc
+      601 ggaggtggtg atcctatttt gtatcaacat ttattttgat tttttg
+//
+
+LOCUS       JX411655                 625 bp    DNA     linear   INV 04-AUG-2012
+DEFINITION  Nerita litterata isolate PB01 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   JX411655
+VERSION     JX411655.1
+KEYWORDS    .
+SOURCE      mitochondrion Nerita litterata
+  ORGANISM  Nerita litterata
+            Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Gastropoda;
+            Neritimorpha; Cycloneritimorpha; Neritoidea; Neritidae; Nerita.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Chee,S.Y.
+  TITLE     Barcoding of gastropods from the family Neritidae found in Malaysia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 625)
+  AUTHORS   Chee,S.Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUL-2012) Center for Marine and Coastal Studies,
+            Universiti Sains Malaysia, Minden, Georgetown, Penang 11800,
+            Malaysia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA v. 5.10
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /organism="Nerita litterata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PB01"
+                     /db_xref="taxon:537777"
+     gene            <1..>625
+                     /gene="COI"
+     CDS             <1..>625
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AFO84860.1"
+                     /translation="GLVGTALSLLIRAELGQPGALLGDDQLYNVIVTAHAFVMIFFLV
+                     MPMMIGGFGNWLVPLMLGAPDMAFPRLNNMSFWLLPPSLTLLLASSAVESGVGTGWTV
+                     YPPLSGNLAHAGGSVDLAIFSLHLAGVSSILGAVNFITTIINMRWQGMQFERLPLFVW
+                     SVKITAILLLLSLPVLAGAITMLLTDRNFNTSFFDPAGGGDPILYQHL"
+ORIGIN      
+        1 ggtttagttg ggactgcttt aagtctcttg attcgggctg agcttgggca gcctggggct
+       61 cttttgggtg atgatcagtt gtataatgta attgttactg ctcatgcatt tgtgataatt
+      121 ttctttttgg tgatgcctat gatgattggg ggatttggga actgattggt tcctttaata
+      181 ttaggggctc cggatatggc gtttcctcga ttgaataata taagtttctg attgcttcct
+      241 ccctcattaa ctttacttct tgcttcttcg gctgttgaga gtggtgtggg gacaggttga
+      301 acagtgtatc ctcctttatc tggtaatctg gctcatgcag gaggttctgt agatttggct
+      361 attttttcgc ttcatttagc tggtgtatct tctattttgg gggctgtaaa tttcattact
+      421 acaattatta atatgcgatg gcaggggatg cagtttgagc ggttgcctct ctttgtttga
+      481 tctgtgaaga ttactgctat ccttttattg ctgtcactac ctgttcttgc gggtgcgatt
+      541 actatgttgt taactgatcg gaactttaat acatctttct ttgaccctgc cggaggtggt
+      601 gatcctattt tatatcaaca tttat
+//
+
+LOCUS       JX411656                 625 bp    DNA     linear   INV 04-AUG-2012
+DEFINITION  Nerita litterata isolate PB02 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   JX411656
+VERSION     JX411656.1
+KEYWORDS    .
+SOURCE      mitochondrion Nerita litterata
+  ORGANISM  Nerita litterata
+            Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Gastropoda;
+            Neritimorpha; Cycloneritimorpha; Neritoidea; Neritidae; Nerita.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Chee,S.Y.
+  TITLE     Barcoding of gastropods from the family Neritidae found in Malaysia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 625)
+  AUTHORS   Chee,S.Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUL-2012) Center for Marine and Coastal Studies,
+            Universiti Sains Malaysia, Minden, Georgetown, Penang 11800,
+            Malaysia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA v. 5.10
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /organism="Nerita litterata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PB02"
+                     /db_xref="taxon:537777"
+     gene            <1..>625
+                     /gene="COI"
+     CDS             <1..>625
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AFO84861.1"
+                     /translation="GLVGTALSLLIRAELGQPGALLGDDQLYNVIVTAHAFVMIFFLV
+                     MPMMIGGFGNWLVPLMLGAPDMAFPRLNNMSFWLLPPSLTLLLASSAVESGVGTGWTV
+                     YPPLSGNLAHAGGSVDLAIFSLHLAGVSSILGAVNFITTIINMRWQGMQFERLPLFVW
+                     SVKITAILLLLSLPVLAGAITMLLTDRNFNTSFFDPAGGGDPILYQHL"
+ORIGIN      
+        1 ggtttagttg ggactgcttt aagtctcttg attcgggctg agcttgggca gcctggggct
+       61 cttttgggtg atgatcagtt gtataatgta attgttactg ctcacgcatt tgtgataatt
+      121 ttctttttgg tgatgcctat gatgattggg ggatttggga actgattggt tcctttgata
+      181 ttaggggctc cggatatggc gtttcctcga ttgaataata taagtttttg attgcttcct
+      241 ccctcattaa ctttacttct tgcttcttcg gctgttgaga gtggtgtggg gacaggttga
+      301 acagtgtatc ctcctttatc tggtaatctg gctcatgcag gaggttctgt agatttggct
+      361 attttttcgc tccatttagc tggtgtatct tctattttgg gggctgtaaa tttcattact
+      421 acaattatta atatgcgatg gcaggggatg caatttgagc ggttgcctct ctttgtttga
+      481 tctgtgaaga ttactgctat ccttttattg ctgtcactac ctgttcttgc gggtgcgatt
+      541 actatgttgt taactgatcg gaactttaat acatctttct ttgaccctgc cggaggtggt
+      601 gatcctattt tgtatcaaca tttat
+//
+
+LOCUS       JX411657                 625 bp    DNA     linear   INV 04-AUG-2012
+DEFINITION  Nerita litterata isolate PB03 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   JX411657
+VERSION     JX411657.1
+KEYWORDS    .
+SOURCE      mitochondrion Nerita litterata
+  ORGANISM  Nerita litterata
+            Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Gastropoda;
+            Neritimorpha; Cycloneritimorpha; Neritoidea; Neritidae; Nerita.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Chee,S.Y.
+  TITLE     Barcoding of gastropods from the family Neritidae found in Malaysia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 625)
+  AUTHORS   Chee,S.Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUL-2012) Center for Marine and Coastal Studies,
+            Universiti Sains Malaysia, Minden, Georgetown, Penang 11800,
+            Malaysia
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA v. 5.10
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /organism="Nerita litterata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PB03"
+                     /db_xref="taxon:537777"
+     gene            <1..>625
+                     /gene="COI"
+     CDS             <1..>625
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AFO84862.1"
+                     /translation="GLVGTALSLLIRAELGQPGALLGDDQLYNVIVTAHAFVMIFFLV
+                     MPMMIGGFGNWLVPLMLGAPDMAFPRLNNMSFWLLPPSLTLLLASSAVESGVGTGWTV
+                     YPPLSGNLAHAGGSVDLAIFSLHLAGVSSILGAVNFITTIINMRWQGMQFERLPLFVW
+                     SVKITAILLLLSLPVLAGAITMLLTDRNFNTSFFDPAGGGDPILYQHL"
+ORIGIN      
+        1 ggtttagttg ggactgcttt aagtctcttg attcgggctg agcttgggca gcctggggct
+       61 cttttgggtg atgatcagtt gtataatgta attgttactg ctcacgcatt tgtgataatt
+      121 ttctttttgg tgatgcctat gatgattggg ggatttggga actgattggt tcctttgata
+      181 ttaggggctc cggatatggc gtttcctcga ttgaataata taagtttttg attgcttcct
+      241 ccctcattaa ctttacttct tgcttcttcg gctgtcgaga gtggtgtggg gacaggttga
+      301 acagtgtatc ctcctttatc tggtaatctg gctcacgcag gaggttctgt agatttggct
+      361 attttttcac ttcatttggc tggtgtgtct tctattttgg gggctgtaaa tttcattact
+      421 acaattatta atatgcgatg gcaggggatg cagtttgagc ggttgcctct ctttgtttga
+      481 tctgtgaaga ttactgctat ccttttattg ctgtcactac ctgttcttgc gggtgcgatt
+      541 actatgttgt taactgatcg gaactttaat acatctttct ttgaccctgc cggaggtggt
+      601 gatcctattt tgtatcaaca tttgt
+//
+
+LOCUS       EU732265                 658 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Nerita litterata isolate ID.1 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EU732265
+VERSION     EU732265.1
+KEYWORDS    .
+SOURCE      mitochondrion Nerita litterata
+  ORGANISM  Nerita litterata
+            Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Gastropoda;
+            Neritimorpha; Cycloneritida; Neritoidea; Neritidae; Nerita.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Frey,M.A. and Vermeij,G.J.
+  TITLE     Molecular phylogenies and historical biogeography of a
+            circumtropical group of gastropods (Genus: Nerita): implications
+            for regional diversity patterns in the marine tropics
+  JOURNAL   Mol. Phylogenet. Evol. 48 (3), 1067-1086 (2008)
+   PUBMED   18586528
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Frey,M.A. and Vermeij,G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2008) Center for Population Biology, University
+            of California Davis, One Shields Avenue, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Nerita litterata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="ID.1"
+                     /db_xref="taxon:537777"
+                     /country="Indonesia: Komodo Island"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACF06009.1"
+                     /translation="TLYIMFGVWSGLVGTALSLLIRAELGQPGALLGDDQLYNVIVTA
+                     HAFVMIFFLVMPMMIGGFGNWLVPLMLGAPDMAFPRLNNMSFWLLPPSLTLLLASSAV
+                     ESGVGTGWTVYPPLSGNLAHAGGSVDLAIFSLHLAGVSSILGAVNFITTIINMRWQGM
+                     QFERLPLFVWSVKITAILLLLSLPVLAGAITMLLTDRNFNTSFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 tactttgtat attatgtttg gtgtatgatc tggtttagtt gggactgctt taagtctctt
+       61 gattcgggct gagcttgggc agcctggggc tcttttgggt gacgatcagt tgtataatgt
+      121 aattgttact gctcacgcat ttgtgataat tttctttttg gtgatgccta tgatgattgg
+      181 aggatttggg aactgattgg ttcctttgat attaggggct ccggatatgg cgtttcctcg
+      241 attgaataat ataagttttt gattgcttcc tccctcatta actttacttc ttgcttcttc
+      301 ggctgttgag agtggtgtgg gaacaggttg aacagtgtat cctcctttat ctggtaatct
+      361 ggctcacgca ggaggttctg tagatttggc tattttttcg cttcatttgg ctggtgtgtc
+      421 ttctattttg ggggctgtaa atttcattac tacaattatt aacatgcgat ggcagggaat
+      481 gcagtttgag cggttgcctc tctttgtttg atctgtgaag attactgcta tccttttatt
+      541 gctgtcacta cctgttcttg cgggtgcgat tactatgttg ttaactgatc ggaactttaa
+      601 tacatctttc tttgaccctg ccggaggtgg tgatcccatt ttgtatcaac atttattt
+//
+
+LOCUS       EU732266                 658 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Nerita litterata isolate PH.1 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EU732266
+VERSION     EU732266.1
+KEYWORDS    .
+SOURCE      mitochondrion Nerita litterata
+  ORGANISM  Nerita litterata
+            Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Gastropoda;
+            Neritimorpha; Cycloneritida; Neritoidea; Neritidae; Nerita.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Frey,M.A. and Vermeij,G.J.
+  TITLE     Molecular phylogenies and historical biogeography of a
+            circumtropical group of gastropods (Genus: Nerita): implications
+            for regional diversity patterns in the marine tropics
+  JOURNAL   Mol. Phylogenet. Evol. 48 (3), 1067-1086 (2008)
+   PUBMED   18586528
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Frey,M.A. and Vermeij,G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2008) Center for Population Biology, University
+            of California Davis, One Shields Avenue, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Nerita litterata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="PH.1"
+                     /db_xref="taxon:537777"
+                     /country="Philippines: Balite, Mindoro"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACF06010.1"
+                     /translation="TLYIMFGVWSGLVGTALSLLIRAELGQPGALLGDDQLYNVIVTA
+                     HAFVMIFFLVMPMMIGGFGNWLVPLMLGAPDMAFPRLNNMSFWLLPPSLTLLLASSAV
+                     ESGVGTGWTVYPPLSGNLAHAGGSVDLAIFSLHLAGVSSILGAVNFITTIINMRWQGM
+                     QFERLPLFVWSVKITAILLLLSLPVLAGAITMLLTDRNFNTSFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 tactttgtat attatgtttg gtgtatgatc tggtttagtt gggactgctt taagtctctt
+       61 gattcgggct gagcttgggc agcctggggc tcttttgggt gatgatcagt tgtataatgt
+      121 aattgttact gctcacgcat ttgtgataat tttctttctg gtgatgccta tgatgattgg
+      181 gggatttgga aactgattgg ttcctttgat attaggggct ccggatatgg cgtttcctcg
+      241 attgaataat ataagttttt gattgcttcc tccctcgtta actttacttc ttgcttcttc
+      301 ggctgttgag agtggtgtgg ggacaggttg aacagtgtat cctcctttat ctggtaattt
+      361 ggctcatgca ggaggttctg tagatttggc tattttttcg cttcatttag ctggtgtatc
+      421 ttctattttg ggggctgtaa atttcattac tacaattatt aatatgcgat ggcaggggat
+      481 gcaatttgag cggttgcctc tttttgtttg atctgtgaag attactgcta tccttttatt
+      541 gctgtcacta cctgttcttg cgggtgcgat tactatgttg ttaactgatc ggaactttaa
+      601 tacatctttc tttgaccctg ccggaggtgg tgatcctatt ttgtatcaac atttattt
+//
+
+LOCUS       EU732267                 658 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Nerita litterata isolate TZ.1 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EU732267
+VERSION     EU732267.1
+KEYWORDS    .
+SOURCE      mitochondrion Nerita litterata
+  ORGANISM  Nerita litterata
+            Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Gastropoda;
+            Neritimorpha; Cycloneritida; Neritoidea; Neritidae; Nerita.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Frey,M.A. and Vermeij,G.J.
+  TITLE     Molecular phylogenies and historical biogeography of a
+            circumtropical group of gastropods (Genus: Nerita): implications
+            for regional diversity patterns in the marine tropics
+  JOURNAL   Mol. Phylogenet. Evol. 48 (3), 1067-1086 (2008)
+   PUBMED   18586528
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Frey,M.A. and Vermeij,G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2008) Center for Population Biology, University
+            of California Davis, One Shields Avenue, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Nerita litterata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TZ.1"
+                     /db_xref="taxon:537777"
+                     /country="Tanzania: Mangapweni, Zanzibar Island"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACF06011.1"
+                     /translation="TLYIMFGVWSGLVGTALSLLIRAELGQPGALLGDDQLYNVIVTA
+                     HAFVMIFFLVMPMMIGGFGNWLVPLMLGAPDMAFPRLNNMSFWLLPPSLTLLLASSAV
+                     ESGVGTGWTVYPPLSGNLAHAGGSVDLAIFSLHLAGVSSILGAVNFITTIINMRWQGM
+                     QFERLPLFVWSVKITAILLLLSLPVLAGAITMLLTDRNFNTSFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 tactttgtat attatgtttg gtgtatgatc tggtttagtc gggactgctt taagtctctt
+       61 gattcgggct gagcttgggc agcctggggc tctcttgggt gatgatcagt tgtataatgt
+      121 aattgttact gctcacgcat ttgtgataat tttctttttg gtgatgccta tgatgattgg
+      181 gggatttggg aactgattgg ttcctttgat attaggggct ccggatatgg cgtttcctcg
+      241 attgaataat ataagttttt gattgcttcc tccctcatta actttacttc ttgcttcttc
+      301 ggctgttgag agtggtgtgg ggacaggttg aacagtgtat cctcctttat ctggtaatct
+      361 ggctcatgca ggaggttctg tagatttggc tattttttcg cttcatttgg ctggtgtgtc
+      421 ttctattttg ggggctgtaa atttcattac tacaattatt aatatgcgat ggcaggggat
+      481 gcagttcgag cggttgcctc tctttgtttg atctgtgaag attactgcta tccttttatt
+      541 gctgtcacta cctgttcttg cgggtgcgat tactatgttg ttaactgatc ggaactttaa
+      601 tacatctttt tttgatcctg ccggaggtgg tgatcctatt ttgtatcaac atttattt
+//
+
+LOCUS       EU732268                 658 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Nerita litterata isolate TZ.2 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   EU732268
+VERSION     EU732268.1
+KEYWORDS    .
+SOURCE      mitochondrion Nerita litterata
+  ORGANISM  Nerita litterata
+            Eukaryota; Metazoa; Lophotrochozoa; Mollusca; Gastropoda;
+            Neritimorpha; Cycloneritida; Neritoidea; Neritidae; Nerita.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Frey,M.A. and Vermeij,G.J.
+  TITLE     Molecular phylogenies and historical biogeography of a
+            circumtropical group of gastropods (Genus: Nerita): implications
+            for regional diversity patterns in the marine tropics
+  JOURNAL   Mol. Phylogenet. Evol. 48 (3), 1067-1086 (2008)
+   PUBMED   18586528
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Frey,M.A. and Vermeij,G.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-MAY-2008) Center for Population Biology, University
+            of California Davis, One Shields Avenue, Davis, CA 95616, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Nerita litterata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="TZ.2"
+                     /db_xref="taxon:537777"
+                     /country="Tanzania: Mangapweni, Zanzibar Island"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=5
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACF06012.1"
+                     /translation="TLYIMFGVWSGLVGTALSLLIRAELGQPGALLGDDQLYNVIVTA
+                     HAFVMIFFLVMPMMIGGFGNWLVPLMLGAPDMAFPRLNNMSFWLLPPSLTLLLASSAV
+                     ESGVGTGWTVYPPLSGNLAHAGGSVDLAIFSLHLAGVSSILGAVNFITTIINMRWQGM
+                     QFERLPLFVWSVKITAILLLLSLPVLAGAITMLLTDRNFNTSFFDPAGGGDPILYQHL
+                     F"
+ORIGIN      
+        1 tactttgtat attatgtttg gtgtatgatc tggtttagtc gggactgctt taagtctctt
+       61 gattcgggct gagcttgggc agcctggggc tctcttgggt gatgatcagt tgtataatgt
+      121 aattgttact gctcacgcat ttgtgataat tttctttttg gtgatgccta tgatgattgg
+      181 gggatttggg aactgattgg ttcctttgat attaggggct ccggatatgg cgtttcctcg
+      241 attgaataat ataagttttt gattgcttcc tccctcatta actttacttc ttgcttcttc
+      301 ggctgttgag agtggtgtgg ggacaggttg aacagtgtat cctcctttat ctggtaatct
+      361 ggctcatgca ggaggctctg tagatttggc tattttttcg cttcatttgg ctggtgtgtc
+      421 ttctattttg ggggctgtaa atttcattac tacaattatt aatatgcgat ggcaggggat
+      481 gcagttcgag cggttgcctc tctttgtttg atctgtgaag attactgcta tccttttatt
+      541 gctgtcacta cctgttcttg cgggtgcgat tactatgttg ttaactgatc ggaactttaa
+      601 tacatctttt tttgatcctg ccggaggtgg tgatcctatt ttgtatcaac atttattt
+//
+

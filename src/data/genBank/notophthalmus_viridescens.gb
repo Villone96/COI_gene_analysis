@@ -1,0 +1,1046 @@
+LOCUS       MN135604                 658 bp    DNA     linear   VRT 14-NOV-2019
+DEFINITION  Notophthalmus viridescens voucher USNM:Herp:575047 cytochrome
+            oxidase subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   MN135604
+VERSION     MN135604.1
+DBLINK      BioProject: PRJNA552856
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Mulcahy,D.G., Lee,J.L., Miller,A.H. and Davis,D.R.
+  TITLE     Barcoding the Herpetofauna of Quantico VA and other areas of the
+            southeastern US
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Mulcahy,D.G., Lee,J.L., Miller,A.H. and Davis,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-2019) Global Genome Initiative, National Museum
+            of Natural History, Smithsonian Institution, 1000 Constitution
+            Ave., Washington, DC 20560, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="USNM:Herp:575047"
+                     /db_xref="BOLD:QUANH037-18.COI-5P"
+                     /db_xref="taxon:8316"
+                     /country="USA: Virginia, Stafford, Quantico Marine Corps
+                     Base, 8A training area, NW of rapelling tower"
+                     /lat_lon="38.5053 N 77.4431 W"
+                     /collection_date="21-Jul-2018"
+                     /collected_by="D. Davis, R. Lovich, C. Petersen, C. Cook,
+                     K. Erwin, D. Mulcahy, J. Lee & A. Miller"
+                     /PCR_primers="fwd_seq: ggtcaacaaatcataaagayatygg, rev_seq:
+                     taaacttcagggtgaccaaaraayca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QDJ94026.1"
+                     /translation="TLYLIFGAWAGMVGTALSLLIRAELSQPGALLGDGQIYNVIVTA
+                     HAFVMIFFMVMPVMIGGFGNWLLPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSM
+                     TQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHL
+                     F"
+ORIGIN      
+        1 caccctatat ttaatctttg gtgcctgagc tggcatagtc ggcacagcac taagcttact
+       61 aatccgggct gaactcagcc aaccaggcgc tctcctcgga gatggtcaaa tttataatgt
+      121 aatcgtcacc gcccatgcct tcgtaataat tttttttatg gtaataccag taataattgg
+      181 gggatttgga aactgacttc ttcctcttat aatcggagcc cccgatatag ccttcccccg
+      241 aataaataat ataagctttt gactcctccc cccttcattc ctgctcttac tggcctcttc
+      301 aggtgtagaa gccggtgcag gaacaggatg gactgtatat cccccactag ctggcaatct
+      361 tgctcatgca ggggcctccg ttgacttaac aattttttcc cttcatcttg caggggtatc
+      421 ttcaatttta ggggcaatca attttattac tacatctatt aacataaaac ccccatcaat
+      481 aactcaatat caaactccct tatttgtgtg atcagtatta attactgcca tcctcttact
+      541 tctttctctc ccagtacttg cagcaggtat tacaatgcta ttaacagatc gaaatctaaa
+      601 caccacattt tttgacccag ctggaggagg agaccctgtg ttataccagc acttattc
+//
+
+LOCUS       MN135605                 658 bp    DNA     linear   VRT 14-NOV-2019
+DEFINITION  Notophthalmus viridescens voucher USNM:Herp:575046 cytochrome
+            oxidase subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   MN135605
+VERSION     MN135605.1
+DBLINK      BioProject: PRJNA552856
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Mulcahy,D.G., Lee,J.L., Miller,A.H. and Davis,D.R.
+  TITLE     Barcoding the Herpetofauna of Quantico VA and other areas of the
+            southeastern US
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Mulcahy,D.G., Lee,J.L., Miller,A.H. and Davis,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-2019) Global Genome Initiative, National Museum
+            of Natural History, Smithsonian Institution, 1000 Constitution
+            Ave., Washington, DC 20560, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="USNM:Herp:575046"
+                     /db_xref="BOLD:QUANH036-18.COI-5P"
+                     /db_xref="taxon:8316"
+                     /country="USA: Virginia, Stafford, Quantico Marine Corps
+                     Base, 8A training area, NW of rapelling tower"
+                     /lat_lon="38.5053 N 77.4428 W"
+                     /collection_date="21-Jul-2018"
+                     /collected_by="D. Davis, R. Lovich, C. Petersen, C. Cook,
+                     K. Erwin, D. Mulcahy, J. Lee & A. Miller"
+                     /PCR_primers="fwd_seq: ggtcaacaaatcataaagayatygg, rev_seq:
+                     taaacttcagggtgaccaaaraayca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QDJ94027.1"
+                     /translation="TLYLIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTA
+                     HAFVMIFFMVMPVMIGGFGNWLLPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSM
+                     TQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHL
+                     F"
+ORIGIN      
+        1 caccctatat ttaatctttg gtgcctgagc tggcatagtc ggcacagcac taagcttact
+       61 aatccgggct gaactcagcc aaccaggcgc tctcctcgga gatgatcaaa tttataatgt
+      121 aatcgtcacc gcccatgcct tcgtaataat tttttttatg gtaataccag taataattgg
+      181 gggatttgga aactgacttc ttcctcttat aatcggagcc cccgatatag ccttcccccg
+      241 aataaataat ataagctttt gactcctccc cccttcattc ctgctcttac tggcctcttc
+      301 aggtgtagaa gccggtgcag gaacaggatg gactgtatat cccccactag ctggcaatct
+      361 tgctcatgca ggggcctccg ttgacttaac aattttttcc cttcatcttg caggggtatc
+      421 ttcaatttta ggggcaatca attttattac tacatctatt aacataaaac ccccatcaat
+      481 aactcaatat caaactccct tatttgtgtg atcagtatta attactgcca tcctcttact
+      541 tctttctctc ccagtacttg cagcaggtat tacaatgcta ttaacagatc gaaatctaaa
+      601 caccacattt tttgacccag ctggaggagg agaccctgtg ttataccagc acttattc
+//
+
+LOCUS       MN135606                 658 bp    DNA     linear   VRT 14-NOV-2019
+DEFINITION  Notophthalmus viridescens voucher USNM:Herp:575045 cytochrome
+            oxidase subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   MN135606
+VERSION     MN135606.1
+DBLINK      BioProject: PRJNA552856
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Mulcahy,D.G., Lee,J.L., Miller,A.H. and Davis,D.R.
+  TITLE     Barcoding the Herpetofauna of Quantico VA and other areas of the
+            southeastern US
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Mulcahy,D.G., Lee,J.L., Miller,A.H. and Davis,D.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JUL-2019) Global Genome Initiative, National Museum
+            of Natural History, Smithsonian Institution, 1000 Constitution
+            Ave., Washington, DC 20560, USA
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="USNM:Herp:575045"
+                     /db_xref="BOLD:QUANH035-18.COI-5P"
+                     /db_xref="taxon:8316"
+                     /country="USA: Virginia, Stafford, Quantico Marine Corps
+                     Base, 8A training area, NW of rapelling tower"
+                     /lat_lon="38.5058 N 77.4442 W"
+                     /collection_date="21-Jul-2018"
+                     /collected_by="D. Davis, R. Lovich, C. Petersen, C. Cook,
+                     K. Erwin, D. Mulcahy, J. Lee & A. Miller"
+                     /PCR_primers="fwd_seq: ggtcaacaaatcataaagayatygg, rev_seq:
+                     taaacttcagggtgaccaaaraayca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="QDJ94028.1"
+                     /translation="TLYLIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTA
+                     HAFVMIFFMVMPVMIGGFGNWLLPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSM
+                     TQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHL
+                     F"
+ORIGIN      
+        1 caccctatat ttaatctttg gtgcctgagc tggcatagtc ggcacagcac taagcttact
+       61 aatccgggct gaactcagcc aaccaggcgc tctcctcgga gatgatcaaa tttataatgt
+      121 aatcgtcacc gcccatgcct tcgtaataat tttttttatg gtaataccag taataattgg
+      181 gggatttgga aactgacttc ttcctcttat aatcggagcc cccgatatag ccttcccccg
+      241 aataaataat ataagctttt gactcctccc cccttcattc ctgctcttac tggcctcttc
+      301 aggtgtagaa gccggtgcag gaacaggatg gactgtatat cccccactag ctggcaatct
+      361 tgctcatgca ggggcctccg ttgacttaac aattttttcc cttcatcttg caggggtatc
+      421 ttcaatttta ggggcaatca attttattac tacatctatt aacataaaac ccccatcaat
+      481 aactcaatat caaactccct tatttgtgtg atcagtatta attactgcca tcctcttact
+      541 tctttctctc ccagtacttg cagcaggtat tacaatgcta ttaacagatc gaaatctaaa
+      601 caccacattt tttgacccag ctggaggagg agaccctgtg ttataccagc acttattc
+//
+
+LOCUS       MG422035                 658 bp    DNA     linear   VRT 04-NOV-2018
+DEFINITION  Notophthalmus viridescens voucher BIOUG31184-C06 cytochrome oxidase
+            subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   MG422035
+VERSION     MG422035.1
+DBLINK      BioProject: PRJNA472144
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 658)
+  AUTHORS   Dewaard,J.R.
+  TITLE     BIOUG Archive GGBN Data Release
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 658)
+  AUTHORS   Dewaard,J.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-NOV-2017) Collections, Centre for Biodiversity
+            Genomics, 50 Stone Road East, Guelph, Ontario N1G 2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..658
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BIOUG31184-C06"
+                     /db_xref="BOLD:CNPVT096-16.COI-5P"
+                     /db_xref="taxon:8316"
+                     /country="Canada: New Brunswick, Fundy National Park,
+                     Caribou Plain Trail"
+                     /lat_lon="45.625 N 65.0596 W"
+                     /collection_date="07-Jul-2013"
+                     /collected_by="BIObus 2013"
+                     /identified_by="Joseph Addesi"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagtttcaacwaaycayaaagayatygg, rev_seq:
+                     caggaaacagctatgactadacttcwggrtgdccraaraatca"
+     gene            <1..>658
+                     /gene="COI"
+     CDS             <1..>658
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="AYJ30386.1"
+                     /translation="TLYLIFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTA
+                     HAFVMIFFMVMPVMIGGFGNWLLPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGV
+                     EAGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSM
+                     TQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHL
+                     F"
+ORIGIN      
+        1 caccctatat ttaatctttg gtgcctgagc tggcatagtc ggcacagcac taagcttact
+       61 aatccgggct gaactcagcc aaccaggcgc tctcctcgga gatgatcaaa tttataatgt
+      121 aatcgtcacc gcccatgcct tcgtaataat tttttttatg gtaataccag taataattgg
+      181 gggatttgga aactgacttc ttcctcttat aatcggagcc cccgatatag ccttcccccg
+      241 aataaataat ataagctttt gactcctccc cccttcattc ctgctcttac tggcctcttc
+      301 aggtgtagaa gccggtgcag gaacaggatg gactgtatat cccccactag ctggcaatct
+      361 tgctcatgca ggggcctccg ttgacttaac aattttttcc cttcatcttg caggggtatc
+      421 ttcaatttta ggggcaatca attttattac tacatctatt aacataaaac ccccatcaat
+      481 aactcaatat caaactccct tatttgtgtg atcagtatta attactgcca tcctcttact
+      541 tctttctctc ccagtacttg cagcaggtat tacaatgcta ttaacagatc gaaatctaaa
+      601 caccacattt tttgacccag ctggaggagg agaccctgtg ttataccagc acttattc
+//
+
+LOCUS       KU985820                 404 bp    DNA     linear   VRT 22-MAY-2016
+DEFINITION  Notophthalmus viridescens voucher FMNH Herps 267571 cytochrome
+            oxidase subunit 1 (COI) gene, partial cds; mitochondrial.
+ACCESSION   KU985820
+VERSION     KU985820.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 404)
+  AUTHORS   Chambers,E.A. and Hebert,P.D.N.
+  TITLE     Assessing DNA Barcodes for Species Identification in North American
+            Reptiles and Amphibians in Natural History Collections
+  JOURNAL   PLoS ONE 11 (4), E0154363 (2016)
+   PUBMED   27116180
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 404)
+  AUTHORS   Chambers,E.A. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-MAR-2016) Integrative Biology, University of Texas at
+            Austin, 1 University Station CO930, 2415 Speedway Avenue, Austin,
+            TX 78712-1095, USA
+FEATURES             Location/Qualifiers
+     source          1..404
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="FMNH Herps 267571"
+                     /db_xref="BOLD:EANAA082-12.COI-5P"
+                     /db_xref="taxon:8316"
+                     /country="USA: Indiana, Lake Co., Gary, Pine Station
+                     Nature Preserve, south facing shoreline of swale"
+                     /lat_lon="41.619 N 87.386 W"
+                     /collection_date="25-Oct-2009"
+                     /collected_by="A. R. Resetar"
+                     /PCR_primers="fwd_seq:
+                     tgtaaaacgacggccagtttcaacwaaycayaaagayatygg, rev_seq:
+                     caggaaacagctatgactadacttcwggrtgdccraaraatca"
+                     /PCR_primers="fwd_seq: gctttcccacgaataaataata, rev_seq:
+                     gttcawccwgtwccwgcyccattttc"
+     gene            <1..>404
+                     /gene="COI"
+     CDS             <1..>404
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ANF03144.1"
+                     /translation="MNNMSFWLLPPSFLLLLASSGVEAGAGTGWTVYPPLAGNLAHAG
+                     ASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSMTQYQTPLFVWSVLITAILLLLS
+                     LPVLAAGITMLLTDRNLNTTFFDPAGGGDPVL"
+ORIGIN      
+        1 gaataaataa tataagcttt tgactcctcc ccccttcatt cctgctctta ctggcctctt
+       61 cgggtgtaga agccggtgca ggaacaggat ggactgtata tcccccacta gctggtaatc
+      121 ttgctcatgc aggggcctcc gttgacttaa caattttttc ccttcatctt gcaggggtat
+      181 cttcaatttt aggggcaatc aattttatta ctacatctat taacataaaa cccccatcaa
+      241 taactcaata tcaaactccc ctatttgtat gatcagtatt aattactgcc atcctcctac
+      301 ttctttctct cccagtactt gcagcaggta ttacaatgct attaacagat cgaaatctaa
+      361 acactacatt ttttgaccca gctggaggag gagaccctgt gcta
+//
+
+LOCUS       KJ776974                 991 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  UNVERIFIED: Notophthalmus viridescens isolate AH_9 NADH
+            dehydrogenase subunit 2-like (ND2) gene, partial sequence;
+            tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes,
+            complete sequence; and cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial.
+ACCESSION   KJ776974
+VERSION     KJ776974.1
+KEYWORDS    UNVERIFIED.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 991)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+FEATURES             Location/Qualifiers
+     source          1..991
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="AH_9"
+                     /db_xref="taxon:8316"
+     gene            <1..589
+                     /gene="ND2"
+     misc_feature    <1..589
+                     /gene="ND2"
+                     /note="similar to NADH dehydrogenase subunit 2"
+     tRNA            588..656
+                     /product="tRNA-Trp"
+     tRNA            complement(658..726)
+                     /product="tRNA-Ala"
+     tRNA            complement(727..799)
+                     /product="tRNA-Asn"
+     rep_origin      800..833
+                     /note="origin for light strand replication"
+     tRNA            complement(831..896)
+                     /product="tRNA-Cys"
+     tRNA            complement(897..961)
+                     /product="tRNA-Tyr"
+     gene            963..>991
+                     /gene="COI"
+     CDS             963..>991
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AIP91071.1"
+                     /translation="MMITRWLFST"
+ORIGIN      
+        1 ttattaatta caatagcact agcatcaaca attattcggg ggatgaggag gcctcaatca
+       61 aacacaaata cgaaaaatta tagcatattc atctattgcg catctagggt gaataatttt
+      121 agttttatct ttcgccccta ccctaacaat atttaactta ataatctatt taatattaac
+      181 ctcttctata tttataataa taatagccac acattccaca aatattaata agctctcaac
+      241 ttcatgacta aaaacaccta cactagcagc atccacaata attaccctta tagcccttgg
+      301 aggacttcct ccaacctcag gcttcctacc aaaatgacta attttacaag aaataacaaa
+      361 acaacaccta gaaacactat caactataat agctatatcc gctttactca gcttattctt
+      421 ttacctacgc ctatcttata ctatctccct aacctccccc ccaaatattt ccaattcaaa
+      481 cttcacttga cgaataaaaa acaataaact acaaattctc ccaactctta ttgtactttc
+      541 agcaataata atacctatcg ccccaacact attgacaata ataaactaaa gacttaggat
+      601 aataagacca aagaccttca aagtcttaag caggagttaa aaccttctag tctttgatag
+      661 gacctgcaag actctatctc acatcttctg aatgcaaccc aaacacttta attaagctaa
+      721 gaccctctag actagtaggc ctttatccta cgccctttta gttaacagct aaacgctcaa
+      781 tccagcgagc tttaatctac ttctcccgct tatggggtaa aaagcgggag aagccccggc
+      841 agaagctatt ctgctcttta aaatttgcaa ttttatatgc tggacatcac agggcttgta
+      901 aaaaaggact ttaactttat aacaagggct acaatcttgc acctatctcg gccactttac
+      961 cagtgataat cactcgatga ctattttcta c
+//
+
+LOCUS       KJ776976                 983 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  Notophthalmus viridescens isolate AC_sub_45 NADH dehydrogenase
+            subunit 2 (ND2) gene, partial cds; tRNA-Trp, tRNA-Ala, tRNA-Asn,
+            tRNA-Cys, and tRNA-Tyr genes, complete sequence; and cytochrome c
+            oxidase subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ776976
+VERSION     KJ776976.1
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 983)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+FEATURES             Location/Qualifiers
+     source          1..983
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="AC_sub_45"
+                     /db_xref="taxon:8316"
+     gene            <1..588
+                     /gene="ND2"
+     CDS             <1..588
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AIP91074.1"
+                     /translation="LLITMALASTIIGGWGGLNQTQMRKIMAYSSIAHLGWMILVLSF
+                     APTLTMFNLMIYLMLTSSMFMMMMATHSTNINKLSTSWLKTPTLAASTMIILMALGGL
+                     PPTSGFLPKWLILQEMTKQHLETLSTMMAMSALLSLFFYLRLSYTISLTSPPNISNSN
+                     FTWRMKTNKLQILPTLIVLSAMMMPIAPTLLTMMN"
+     tRNA            587..655
+                     /product="tRNA-Trp"
+     tRNA            complement(657..725)
+                     /product="tRNA-Ala"
+     tRNA            complement(726..798)
+                     /product="tRNA-Asn"
+     rep_origin      799..832
+                     /note="origin for light strand replication"
+     tRNA            complement(830..894)
+                     /product="tRNA-Cys"
+     tRNA            complement(895..959)
+                     /product="tRNA-Tyr"
+     gene            961..>983
+                     /gene="COI"
+     CDS             961..>983
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AIP91075.1"
+                     /translation="MMITRWL"
+ORIGIN      
+        1 ttactaatta caatagcact agcatcaaca attattggag gatgaggagg cctcaatcaa
+       61 acacaaatac gaaaaattat agcatattca tctattgcac atctaggatg aataatctta
+      121 gtcttatctt tcgcccctac cttaacaata tttaacttaa taatctattt aatattaacc
+      181 tcttctatat ttataataat aatagccaca cattccacaa atattaataa actctcaacc
+      241 tcatgactaa aaacacctac actagcggca tccacaataa ttatccttat agcccttgga
+      301 ggacttcctc caacctcagg cttcctacca aaatgactaa ttttacaaga aataacaaaa
+      361 caacatctag aaacactatc aactataata gctatatccg ctttactcag cttattcttt
+      421 tatctacgcc tatcttatac tatttcccta acctcccccc caaatatttc caattcaaac
+      481 ttcacctgac gaataaaaac caataaacta caaattctcc caactcttat tgtactttca
+      541 gcaataataa tacctatcgc cccaacacta ttgacaataa taaactaaag acttaggata
+      601 ataagaccaa agaccttcaa agtcttaagc aggagttaaa accttctagt ctttgatagg
+      661 acctgcaaga ctctatctca catcttctga atgcaaccca aacactttaa ttaagctaag
+      721 accctctaga ctagtaggcc tttatcctac gcccttttag ttaacagcta aacgctcaat
+      781 ccagcgagct ttagtctact tctcccgctt atgggggaaa aagcgggaga agccccggca
+      841 gaagctattc tgctctttaa atttgcaatt ttatatgctg gacatcacgg ggcttggtaa
+      901 aaaaggactt taacctttat aacaagggct acaatcttgc acctatttcg gcactttaca
+      961 gtgataatca ctcgatgact att
+//
+
+LOCUS       KJ776979                 989 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  Notophthalmus viridescens isolate Eastern_GC_sub_27 NADH
+            dehydrogenase subunit 2 (ND2) gene, partial cds; tRNA-Trp,
+            tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete
+            sequence; and cytochrome c oxidase subunit I (COI) gene, partial
+            cds; mitochondrial.
+ACCESSION   KJ776979
+VERSION     KJ776979.1
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 989)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+FEATURES             Location/Qualifiers
+     source          1..989
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Eastern_GC_sub_27"
+                     /db_xref="taxon:8316"
+     gene            <1..589
+                     /gene="ND2"
+     CDS             <1..589
+                     /gene="ND2"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AIP91077.1"
+                     /translation="LLITMALASTIIGGWGGLNQTQMRKIMAYSSIAHLGWMILVLSF
+                     APALTMFNLMIYLMLTSSMFMMMMATHSTNINKLSTSWLKTPTLAASTMITLMALGGL
+                     PPTSGFLPKWLILQEMTKQHLETLSTMMAMSALLSLFFYLRLSYTISLTSPPNISNSN
+                     FTWRMKNNKLQTLPTLIVLSAMMMPIAPTLLTMMN"
+     tRNA            588..656
+                     /product="tRNA-Trp"
+     tRNA            complement(658..726)
+                     /product="tRNA-Ala"
+     tRNA            complement(727..799)
+                     /product="tRNA-Asn"
+     rep_origin      800..833
+                     /note="origin for light strand replication"
+     tRNA            complement(831..896)
+                     /product="tRNA-Cys"
+     tRNA            complement(897..962)
+                     /product="tRNA-Tyr"
+     gene            964..>989
+                     /gene="COI"
+     CDS             964..>989
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AIP91078.1"
+                     /translation="MMITRWLFS"
+ORIGIN      
+        1 cttactaatt acaatagcac tagcatcaac aattattgga ggatgaggag gcctcaatca
+       61 aacacaaata cgaaaaatta tagcatattc atctattgca catctaggat gaataatttt
+      121 agtcttatct ttcgcccctg ccctaacaat atttaactta ataatctatt taatattaac
+      181 ctcttctata tttataataa taatagccac acattccaca aatattaata aactctcaac
+      241 ttcatgacta aaaacaccta cactagcagc atccacaata attaccctta tagcccttgg
+      301 aggacttcct ccaacctcag gcttcctacc aaaatgacta attttacaag aaataacaaa
+      361 acaacaccta gagacactat caactataat agccatatcc gctttactca gcttattctt
+      421 ttatctacgc ctatcttata ctatctctct aacctccccc ccaaatattt ccaattcaaa
+      481 cttcacctga cgaataaaaa acaataaact acaaactctc ccaactctta ttgtactttc
+      541 agcaataata atacctatcg ccccaacact attgacaata ataaactaaa gacttaggat
+      601 aataagacca aagaccttca aagtcttaag caggagttaa aaccttctag tctttgatag
+      661 gacctgcaag actctatctc acatcttctg aatgcaaccc aaacacttta attaagctaa
+      721 gaccctctag actagtaggc ctttatccta cgccctttta gttaacagct aaacgctcaa
+      781 tccagcgagc tttagtctac ttctcccgct tatggggggg gaagcgggag aagccccggc
+      841 agaagctatt ctgctcttta aaatttgcaa ttttatatgc tggacatcac ggggcttggt
+      901 aaaaaaggac tttaaccttt ataacaaggg ctacaatctt gcacctattt cggcacttta
+      961 ccagtgataa tcactcgatg actattttc
+//
+
+LOCUS       KJ776980                 991 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  UNVERIFIED: Notophthalmus viridescens isolate AH_4 NADH
+            dehydrogenase subunit 2-like (ND2) gene, partial sequence;
+            tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes,
+            complete sequence; and cytochrome c oxidase subunit I-like (COI)
+            gene, partial sequence; mitochondrial.
+ACCESSION   KJ776980
+VERSION     KJ776980.1
+KEYWORDS    UNVERIFIED.
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 991)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+COMMENT     GenBank staff is unable to verify sequence and/or annotation
+            provided by the submitter.
+FEATURES             Location/Qualifiers
+     source          1..991
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="AH_4"
+                     /db_xref="taxon:8316"
+     gene            <1..590
+                     /gene="ND2"
+     misc_feature    <1..590
+                     /gene="ND2"
+                     /note="similar to NADH dehydrogenase subunit 2"
+     tRNA            589..657
+                     /product="tRNA-Trp"
+     tRNA            complement(659..727)
+                     /product="tRNA-Ala"
+     tRNA            complement(728..800)
+                     /product="tRNA-Asn"
+     rep_origin      801..834
+                     /note="origin for light strand replication"
+     tRNA            complement(832..897)
+                     /product="tRNA-Cys"
+     tRNA            complement(898..964)
+                     /product="tRNA-Tyr"
+     gene            966..>991
+                     /gene="COI"
+     misc_feature    966..>991
+                     /gene="COI"
+                     /note="similar to cytochrome c oxidase subunit I"
+ORIGIN      
+        1 cttattaatt acaatagcac tagcatcaac aattattcgg gggatgagga ggcctcaatc
+       61 aaacacaaat acgaaaaatt atagcatact catctattgc gcatctaggg tgaataattt
+      121 tagttttatc tttcgcccct accctaacaa tatttaactt aatgatctat ttaatattaa
+      181 cctcttctat atttataata ataatagcca cacattccac aaatattaat aagctctcaa
+      241 cttcatgact aaaaacacct acactagcag catccacaat aattaccctt atagcccttg
+      301 gaggacttcc tccaacctca ggcttcctac caaaatgact aattttacaa gaaataacaa
+      361 aacaacacct agaaacacta tcaactataa tagctatatc cgctttactc agcttattct
+      421 tttacctacg cctatcttat actatctccc taacctcccc cccaaatatt tccaattcaa
+      481 acttcacttg acgaataaaa aacaataaac tacaaattct cccaactctt attgtacttt
+      541 cagcaataat aatacctatc gccccaacac tattgacaat aataaactaa agacttagga
+      601 taataagacc aaagaccttc aaagtcttaa gcaggagtta aaaccttcta gtctttgata
+      661 ggacctgcaa gactctatct cacatcttct gaatgcaacc caaacacttt aattaagcta
+      721 agaccctcta gactagtagg cctttatcct acgccctttt agttaacagc taaacgctca
+      781 atccagcgag ctttagtcta cttctcccgc ttatggggta aaaagcggga gaagccccgg
+      841 cagaagctat tctgctcttt aaaatttgca attttatatg ctggacatca cagggcttgg
+      901 taaaaaaagg actttaacct ttataacaag ggctacatct tgcacctatt tcggccactt
+      961 taccagtgat atcactcgat gactattttc t
+//
+
+LOCUS       KJ776981                 987 bp    DNA     linear   VRT 24-SEP-2014
+DEFINITION  Notophthalmus viridescens isolate AH_38 NADH dehydrogenase subunit
+            2 (ND2) gene, partial cds; tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys,
+            and tRNA-Tyr genes, complete sequence; and cytochrome c oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   KJ776981
+VERSION     KJ776981.1
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 987)
+  AUTHORS   Takahashi,M.K., Eastman,J.M., Griffin,D.A., Baumsteiger,J.,
+            Parris,M.J. and Storfer,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAY-2014) Department of Geography, Bucknell
+            University, Lewisburg, PA 17837, USA
+FEATURES             Location/Qualifiers
+     source          1..987
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="AH_38"
+                     /db_xref="taxon:8316"
+     gene            <1..589
+                     /gene="ND2"
+     CDS             <1..589
+                     /gene="ND2"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AIP91079.1"
+                     /translation="LLITMALASTIIGGWGGLNQTQMRKIMAYSSIAHLGWMILVLSF
+                     APTLTMFNLMIYLMLTSSMFMMMMATHSTNINKLSTSWLKTPTLAASTMITLMALGGL
+                     PPTSGFLPKWLILQEMTKQHLETLSTMMAMSALLSLFFYLRLSYTISLTSPPNISNSN
+                     FTWRMKNNKLQILPTLIVLSAMMMPIAPTLLTMMN"
+     tRNA            588..656
+                     /product="tRNA-Trp"
+     tRNA            complement(658..726)
+                     /product="tRNA-Ala"
+     tRNA            complement(727..799)
+                     /product="tRNA-Asn"
+     rep_origin      800..833
+                     /note="origin for light strand replication"
+     tRNA            complement(831..896)
+                     /product="tRNA-Cys"
+     tRNA            complement(897..961)
+                     /product="tRNA-Tyr"
+     gene            963..>987
+                     /gene="COI"
+     CDS             963..>987
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="AIP91080.1"
+                     /translation="MMITRWLF"
+ORIGIN      
+        1 cttattaatt acaatagcac tagcatcaac aattattggg ggatgaggag gcctcaatca
+       61 aacacaaata cgaaaaatta tagcatattc atctattgcg catctagggt gaataatttt
+      121 agttttatct ttcgccccta ccctaacaat atttaactta atgatctatt taatattaac
+      181 ctcttctata tttataataa taatagccac acattccaca aatattaata agctctcaac
+      241 ttcatgacta aaaacaccta cactagcagc atccacaata attaccctta tagcccttgg
+      301 aggacttcct ccaacctcag gcttcctacc aaaatgacta attttacaag aaataacaaa
+      361 acaacaccta gaaacactat caactataat agctatatcc gctttactca gcttattctt
+      421 ttacctacgc ctatcttata ctatctccct aacctccccc ccaaatattt ccaattcaaa
+      481 cttcacttga cgaataaaaa acaataaact acaaattctc ccaactctta ttgtactttc
+      541 agcaataata atacctatcg ccccaacact attgacaata ataaactaaa gacttaggat
+      601 aataagacca aagaccttca aagtcttaag caggagttaa aaccttctag tctttgatag
+      661 gacctgcaag actctatctc acatcttctg aatgcaaccc aaacacttta attaagctaa
+      721 gaccctctag actagtaggc ctttatccta cgccctttta gttaacagct aaacgctcaa
+      781 tccagcgagc tttagtctac ttctcccgct tatggggtaa aaagcgggag aagccccggc
+      841 agaagctatt ctgctcttta aaatttgcaa ttttatatgc tggacatcac agggcttgta
+      901 aaaaaggact ttaaccttta taacaagggc tacaatcttg cacctatttc ggccacttta
+      961 cagtgataat cactcgatga ctatttt
+//
+
+LOCUS       EF525823                 638 bp    DNA     linear   VRT 26-JUL-2016
+DEFINITION  Notophthalmus viridescens voucher MAS138-05 cytochrome oxidase
+            subunit I (COI) gene, partial cds; mitochondrial.
+ACCESSION   EF525823
+VERSION     EF525823.1
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 638)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.
+  TITLE     DNA BARCODING: CO1 DNA barcoding amphibians: take the chance, meet
+            the challenge
+  JOURNAL   Mol Ecol Resour 8 (2), 235-246 (2008)
+   PUBMED   21585765
+REFERENCE   2  (bases 1 to 638)
+  AUTHORS   Smith,M.A., Poyarkov,N.A. Jr. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2007) Biodiversity Institute of Ontario,
+            University of Guelph, University of Guelph, Guelph, Ontario N1G
+            2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..638
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MAS138-05"
+                     /db_xref="BOLD:AMPAS171-05"
+                     /db_xref="taxon:8316"
+                     /country="Canada: Ontario"
+                     /lat_lon="44.6213 N 78.4897 W"
+                     /collection_date="03-Jun-2005"
+                     /collected_by="M. Alex Smith"
+     gene            <1..>638
+                     /gene="COI"
+     CDS             <1..>638
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ABU95787.1"
+                     /translation="GMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAHAFVMIFFMV
+                     MPVMIGGFGNWLLPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVEAGAGTGWTV
+                     YPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTSINMKPPSMTQYQTPLFVW
+                     SVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHLFWFFG"
+ORIGIN      
+        1 ggcatagtcg gcacagcact aagcttacta atccgggctg aactcagcca accaggcgct
+       61 ctcctcggag atgatcaaat ttataatgta atcgtcaccg cccatgcctt cgtaataatt
+      121 ttttttatgg taataccagt aataattggg ggatttggaa actgacttct tcctcttata
+      181 atcggagccc ccgatatagc cttcccccga ataaataata taagcttttg actcctcccc
+      241 ccttcattcc tgctcttact ggcctcttca ggtgtagaag ccggtgcagg aacaggatgg
+      301 actgtatatc ccccactagc tggcaatctt gctcatgcag gggcctccgt tgacttaaca
+      361 attttttccc ttcatcttgc aggggtatct tcaattttag gggcaatcaa ttttattact
+      421 acatctatta acataaaacc cccatcaata actcaatatc aaactccctt atttgtgtga
+      481 tcagtattaa ttactgccat cctcttactt ctttctctcc cagtacttgc agcaggtatt
+      541 acaatgctat taacagatcg aaatctaaac accacatttt ttgacccagc tggaggagga
+      601 gaccctgtgt tataccagca cttattctga ttctttgg
+//
+
+LOCUS       DQ517795                2706 bp    DNA     linear   VRT 17-OCT-2013
+DEFINITION  Notophthalmus viridescens voucher MVZ230959 tRNA-Leu gene, complete
+            sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds;
+            tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; NADH
+            dehydrogenase subunit 2 (ND2) gene, complete cds; tRNA-Trp,
+            tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes, complete
+            sequence; and cytochrome c oxidase subunit I (COI) gene, partial
+            cds; mitochondrial.
+ACCESSION   DQ517795
+VERSION     DQ517795.1
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 2706)
+  AUTHORS   Weisrock,D.W., Papenfuss,T.J., Macey,J.R., Litvinchuk,S.N.,
+            Polymeni,R., Ugurtas,I.H., Zhao,E., Jowkar,H. and Larson,A.
+  TITLE     A molecular assessment of phylogenetic relationships and lineage
+            accumulation rates within the family Salamandridae (Amphibia,
+            Caudata)
+  JOURNAL   Mol. Phylogenet. Evol. 41 (2), 368-383 (2006)
+   PUBMED   16815049
+REFERENCE   2  (bases 1 to 2706)
+  AUTHORS   Weisrock,D.W., Papenfuss,T.J., Macey,J.R., Litvinchuk,S.N.,
+            Polymeni,R., Ugurtas,I.H., Zhao,E. and Larson,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-APR-2006) Department of Biology, Washington
+            University, Campus Box 1137, St. Louis, MO 63130, USA
+FEATURES             Location/Qualifiers
+     source          1..2706
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ230959"
+                     /db_xref="taxon:8316"
+                     /country="USA"
+     tRNA            1..73
+                     /product="tRNA-Leu"
+     gene            75..1043
+                     /gene="ND1"
+     CDS             75..1043
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="ACO05552.1"
+                     /translation="MHILQTLINPLLYIIPVLLAVAFLTLVERKVLGYMQLRKGPNIV
+                     GPVGLLQPIADGLKLFIKEPIRPSTSSQTLFLLMPMMALTLALMIWIPLPMPFMLSNL
+                     NLGVLFLLALSSLAVYTILGSGWSSNSKYALIGALRAVAQTISYEVTLGLILLCLILM
+                     AGGFTLMNFNTSQEPLWFLIPAWPMAAMWFISTLAETNRAPFDLTEGESELVSGFNVE
+                     YAGGPFALFFLAEYSNILLMNTLSAILFLGTTLNHLQPELMTTSLIIKASALSMVFLW
+                     TRASYPRFRYDQLMHLIWKNFLPITIMMTLMHVSLPIVMSGIPPLL"
+     tRNA            1043..1112
+                     /product="tRNA-Ile"
+     tRNA            complement(1118..1187)
+                     /product="tRNA-Gln"
+     tRNA            1190..1257
+                     /product="tRNA-Met"
+     gene            1258..2301
+                     /gene="ND2"
+     CDS             1258..2301
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="ACO05551.1"
+                     /translation="MNPYALSMLLSSLAIGTTITLSSSHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALILFSTTMNAWTTGEWTIMNMNNNTATTVLTIAL
+                     AIKLGIAPFHLWLPDVLQGLNLMTGLLLSTWQKLAPMALLIMTNHQLNTNLLITMALA
+                     STIIGGWGGLNQTQMRKIMAYSSIAHLGWMILVLSFAPALTMFNLMIYLMLTSSMFMM
+                     MMATHSTNINKLSTSWLKTPTLAASTMITLMALGGLPPTSGFLPKWLILQEMTKQHLE
+                     TLSTMMAMSALLSLFFYLRLSYTISLTSPPNISNSNFTWRMKNNKLQILPTLIVLSAM
+                     MMPIAPTLLTMMN"
+     tRNA            2300..2368
+                     /product="tRNA-Trp"
+     tRNA            complement(2370..2438)
+                     /product="tRNA-Ala"
+     tRNA            complement(2439..2511)
+                     /product="tRNA-Asn"
+     rep_origin      2512..2545
+                     /note="origin for light strand replication"
+     tRNA            complement(2543..2608)
+                     /product="tRNA-Cys"
+     tRNA            complement(2609..2676)
+                     /product="tRNA-Tyr"
+     gene            2678..>2706
+                     /gene="COI"
+     CDS             2678..>2706
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit I"
+                     /protein_id="ACO05553.1"
+                     /translation="MMIIRWLFST"
+ORIGIN      
+        1 gttaagatgg cagagccagg caattgcaaa agatctaagc cctttcacca gaggttcaat
+       61 tcctcttctt aactatgcac atccttcaaa cacttattaa cccattatta tatattattc
+      121 cagttttgtt ggcagtagca ttcctcaccc tcgtagaacg aaaagtatta ggatatatac
+      181 aactacgtaa aggtcctaat attgtaggac cagtgggact tctacaaccc atcgcagacg
+      241 gattaaaatt atttattaaa gaaccgattc gaccatcaac atcttcacaa actctcttcc
+      301 tgctaatgcc aataatagcc ctaactctag cattaataat ctgaatcccc ctacccatac
+      361 catttatact atctaacctt aacttaggag tattattctt actagcatta tcaagcctag
+      421 ctgtatacac aattctagga tcaggatgat catcaaattc aaaatatgca ttaattgggg
+      481 cacttcgcgc agtagcacaa actatctcct atgaagtcac attaggacta attctcctct
+      541 gcctcatctt aatggccgga ggcttcacac tgataaactt caacacctca caagaaccac
+      601 tatgattctt aattccagca tgaccaatag cagcaatatg attcatttca acactagcag
+      661 aaacaaaccg agccccattc gacttgacag agggggagtc tgaactagta tcaggattta
+      721 acgtagagta cgcaggaggg ccctttgcac tcttctttct agcagaatac tcaaatattc
+      781 tattaataaa tacactatcc gcaattctat ttcttggcac cacactaaat caccttcaac
+      841 cagaattgat aacaacaagc ctaattatta aagcatctgc gctctcaata gtatttttat
+      901 gaactcgggc atcataccca cgattccgat acgatcaact aatacactta atctgaaaaa
+      961 acttcctacc aatcacaatt ataataacgc tcatgcacgt atccctgcca attgtaatat
+     1021 caggcattcc ccctttacta taggacatgt gcccgaaaga tagggctcac tttgatagag
+     1081 tgaattatag aggttcaaac cctctcatct cctatattaa aaaaacagga cttgaacctg
+     1141 ccctgaggag atcaaaaccc ctcgtgcttc cactacacca ctttttaaag taagataagc
+     1201 taattaagct tttgggccca taccccaaat atgttggtta aaccccctct cttactaatg
+     1261 aatccttatg cattatccat attattatca agcctagcaa ttgggacaac tattacactc
+     1321 tcaagttctc attgatttct tgcatgaata ggcctagaaa ttaatacact agctattatt
+     1381 ccactaataa ctaagataca ccatccccga gcaacagaat ccgcaacaaa atacttctta
+     1441 acacaagcca cagcatccgc tttaatctta ttctccacaa ccataaatgc atggaccaca
+     1501 ggagaatgaa caattataaa tataaataat aatacagcaa caacagtcct aacaattgct
+     1561 ctagcaatta aactaggtat tgcaccattt cacctatgac taccagatgt actacaagga
+     1621 ctaaacttaa taacaggact actcctctca acatgacaaa aactagcccc tatagcacta
+     1681 cttattataa ccaaccatca actaaataca aacttactaa ttacaatagc actagcatca
+     1741 acaattattg gaggatgagg aggcctcaat caaacacaaa tacgaaaaat tatagcatat
+     1801 tcatctattg cacatctagg atgaataatt ttagtcttat ctttcgcccc tgccctaaca
+     1861 atatttaact taataatcta tttaatatta acctcttcta tatttataat aataatagcc
+     1921 acacattcca caaatattaa taaactctca acttcatgac taaaaacacc tacactagca
+     1981 gcatccacaa taattactct tatagccctt ggaggacttc ctccaacctc aggcttccta
+     2041 ccaaaatgac taattttaca agaaataaca aaacaacacc tagagacact atcaactata
+     2101 atagctatat ccgctttact cagcttattc ttttatttac gcctatctta tactatctcc
+     2161 ctaacctccc ccccaaatat ttccaattca aacttcacct gacgaataaa aaacaataaa
+     2221 ctacaaattc tcccaactct tattgtactt tcagcaataa taatacctat cgccccaaca
+     2281 ctattgacaa taataaacta aagacttagg ataataagac caaagacctt caaagtctta
+     2341 agcaggagtt aaaaccttct agtctttgat aggacctgca agactctatc tcacatcttc
+     2401 tgaatgcaac ccaaacactt taattaagct aagaccctct agactagtag gcctttatcc
+     2461 tacgcccttt tagttaacag ctaaacgctc aatccagcga gctttagtct acttctcccg
+     2521 cttatgggga aaaaagcggg agaagccccg gcagaagcta ttctgctctt taaaatttgc
+     2581 aattttatat gctggacatc acggggcttg gtaaaaaaag gactttaacc tttataacaa
+     2641 gggctacaat cttgcaccta tttcggccac tttaccagtg ataatcattc gatgactatt
+     2701 ttctac
+//
+
+LOCUS       AF296616                2045 bp    DNA     linear   VRT 03-OCT-2013
+DEFINITION  Notopthalmus viridescens NADH dehydrogenase subunit I (ND1) gene,
+            partial cds; tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete
+            sequence; NADH dehydrogenase subunit II (ND2) gene, complete cds;
+            tRNA-Trp, tRNA-Ala, tRNA-Asn, tRNA-Cys, and tRNA-Tyr genes,
+            complete sequence; and cytochrome c oxidase subunit I (COI) gene,
+            partial cds; mitochondrial genes for mitochondrial products.
+ACCESSION   AF296616
+VERSION     AF296616.1
+KEYWORDS    .
+SOURCE      mitochondrion Notophthalmus viridescens (eastern newt)
+  ORGANISM  Notophthalmus viridescens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Amphibia; Batrachia; Caudata; Salamandroidea; Salamandridae;
+            Pleurodelinae; Notophthalmus.
+REFERENCE   1  (bases 1 to 2045)
+  AUTHORS   Weisrock,D.W., Macey,J.R., Ugurtas,I.H., Larson,A. and
+            Papenfuss,T.J.
+  TITLE     Molecular phylogenetics and historical biogeography among
+            salamandrids of the 'true' salamander clade: rapid branching of
+            numerous highly divergent lineages in Mertensiella luschani
+            associated with the rise of Anatolia
+  JOURNAL   Mol. Phylogenet. Evol. 18 (3), 434-448 (2001)
+   PUBMED   11277635
+REFERENCE   2  (bases 1 to 2045)
+  AUTHORS   Weisrock,D.W., Macey,J.R., Ugurtas,I.H., Larson,A. and
+            Papenfuss,T.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-AUG-2000) Dept. of Biology, Washington University,
+            Campus Box 1137, St. Louis, MO 63130, USA
+FEATURES             Location/Qualifiers
+     source          1..2045
+                     /organism="Notophthalmus viridescens"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="MVZ-RM10692"
+                     /db_xref="taxon:8316"
+                     /country="USA: 2.4 miles south of Weldon Springs at I-40
+                     on Hwy 94, St. Charles Co., Missouri"
+     gene            <1..381
+                     /gene="ND1"
+     CDS             <1..381
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AAK30304.1"
+                     /translation="TNRAPFDLTEGESELVSGFNVEYAGGPFALFFLAEYSNILLMNT
+                     LSAILFLGTTLNHLQPELMTTSLIIKASALSMVFLWTRASYPRFRYDQLMHLIWKNFL
+                     PITIMMTLMHVSLPIVMSGIPPLL"
+     tRNA            381..451
+                     /product="tRNA-Ile"
+     tRNA            455..525
+                     /product="tRNA-Gln"
+     tRNA            527..595
+                     /product="tRNA-Met"
+     gene            596..1639
+                     /gene="ND2"
+     CDS             596..1639
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AAK30303.1"
+                     /translation="MNPYALSMLLSSLAIGTTITLSSSHWFLAWMGLEINTLAIIPLM
+                     TKMHHPRATESATKYFLTQATASALILFSTTMNAWTTGEWTIMNMNNNTATTVLTIAL
+                     AIKLGIAPFHLWLPDVLQGLNLMTGLLLSTWQKLAPMALLIMTNHQLNTNLLITMALA
+                     STIIGGWGGLNQTQMRKIMAYSSIAHLGWMILVLSFAPALTMFNLMIYLMLTSSMFMM
+                     MMATHSTNINKLSTSWLKTPTLAASTMITLMALGGLPPTSGFLPKWLILQEMTKQHLE
+                     TLSTMMAMSALLSLFFYLRLSYTISLTSPPNISNSNFTWRMKNNKLQILPTLIVLSAM
+                     MMPIAPTLLTMMN"
+     tRNA            1638..1706
+                     /product="tRNA-Trp"
+     tRNA            1708..1776
+                     /product="tRNA-Ala"
+     tRNA            1777..1849
+                     /product="tRNA-Asn"
+     rep_origin      1850..1883
+                     /note="light strand replication origin"
+     tRNA            1881..1946
+                     /product="tRNA-Cys"
+     tRNA            1947..2014
+                     /product="tRNA-Tyr"
+     gene            2016..>2045
+                     /gene="COI"
+     CDS             2016..>2045
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome c oxidase subunit 1"
+                     /protein_id="AAK30305.1"
+                     /translation="MMIIRWLFST"
+ORIGIN      
+        1 acaaaccgag ccccattcga cttgacagag ggggagtctg aactagtatc aggatttaac
+       61 gtagagtacg caggagggcc ctttgcactc ttctttctag cagaatactc aaatattcta
+      121 ttaataaata cactatccgc aattctattt cttggcacca cactaaatca ccttcaacca
+      181 gaattgataa caacaagcct aattattaaa gcatctgcgc tctcaatagt atttttatga
+      241 actcgggcat catacccacg attccgatac gatcaactaa tacacttaat ctgaaaaaac
+      301 ttcctaccaa tcacaattat aataacgctc atgcacgtat ccctgccaat tgtaatatca
+      361 ggcattcccc ctttactata ggacatgtgc ccgaaagata gggctcactt tgatagagtg
+      421 aattatagag gttcaaaccc tctcatctcc tatattaaaa aaacaggact tgaacctgcc
+      481 ctgaggagat caaaacccct cgtgcttcca ctacaccact ttttaaagta agataagcta
+      541 attaagcttt tgggcccata ccccaaatat gttggttaaa ccccctctct tactaatgaa
+      601 tccttatgca ttatccatat tattatcaag cctagcaatt gggacaacta ttacactctc
+      661 aagttctcat tgatttcttg catgaatagg cctagaaatt aatacactag ctattattcc
+      721 actaataact aagatacacc atccccgagc aacagaatcc gcaacaaaat acttcttaac
+      781 acaagccaca gcatccgctt taatcttatt ctccacaacc ataaatgcat ggaccacagg
+      841 agaatgaaca attataaata taaataataa tacagcaaca acagtcctaa caattgctct
+      901 agcaattaaa ctaggtattg caccatttca cctatgacta ccagatgtac tacaaggact
+      961 aaacttaata acaggactac tcctctcaac atgacaaaaa ctagccccta tagcactact
+     1021 tattataacc aaccatcaac taaatacaaa cttactaatt acaatagcac tagcatcaac
+     1081 aattattgga ggatgaggag gcctcaatca aacacaaata cgaaaaatta tagcatattc
+     1141 atctattgca catctaggat gaataatttt agtcttatct ttcgcccctg ccctaacaat
+     1201 atttaactta ataatctatt taatattaac ctcttctata tttataataa taatagccac
+     1261 acattccaca aatattaata aactctcaac ttcatgacta aaaacaccta cactagcagc
+     1321 atccacaata attactctta tagcccttgg aggacttcct ccaacctcag gcttcctacc
+     1381 aaaatgacta attttacaag aaataacaaa acaacaccta gagacactat caactataat
+     1441 agctatatcc gctttactca gcttattctt ttatttacgc ctatcttata ctatctccct
+     1501 aacctccccc ccaaatattt ccaattcaaa cttcacctga cgaataaaaa acaataaact
+     1561 acaaattctc ccaactctta ttgtactttc agcaataata atacctatcg ccccaacact
+     1621 attgacaata ataaactaaa gacttaggat aataagacca aagaccttca aagtcttaag
+     1681 caggagttaa aaccttctag tctttgatag gacctgcaag actctatctc acatcttctg
+     1741 aatgcaaccc aaacacttta attaagctaa gaccctctag actagtaggc ctttatccta
+     1801 cgccctttta gttaacagct aaacgctcaa tccagcgagc tttagtctac ttctcccgct
+     1861 tatggggaaa aaagcgggag aagccccggc agaagctatt ctgctcttta aaatttgcaa
+     1921 ttttatatgc tggacatcac ggggcttggt aaaaaaagga ctttaacctt tataacaagg
+     1981 gctacaatct tgcacctatt tcggccactt taccagtgat aatcattcga tgactatttt
+     2041 ctact
+//
+

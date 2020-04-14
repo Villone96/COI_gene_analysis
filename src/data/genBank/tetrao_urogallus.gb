@@ -1,0 +1,396 @@
+LOCUS       GU571653                 723 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Tetrao urogallus voucher NHMO-BC447 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GU571653
+VERSION     GU571653.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Tetrao urogallus (western capercaillie)
+  ORGANISM  Tetrao urogallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Tetraoninae; Tetrao.
+REFERENCE   1  (bases 1 to 723)
+  AUTHORS   Johnsen,A., Rindal,E., Ericson,P.G.P., Zuccon,D., Kerr,K.C.R.,
+            Stoeckle,M.Y. and Lifjeld,J.T.
+  TITLE     DNA barcoding of Scandinavian birds reveals divergent lineages in
+            trans-Atlantic species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 723)
+  AUTHORS   Johnsen,A., Rindal,E., Ericson,P.G.P., Zuccon,D., Kerr,K.C.R.,
+            Stoeckle,M.Y. and Lifjeld,J.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JAN-2010) Natural History Museum, University of Oslo,
+            Sars Gate 1, Oslo, Oslo NO-0562, Norway
+FEATURES             Location/Qualifiers
+     source          1..723
+                     /organism="Tetrao urogallus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="NHMO-BC447"
+                     /db_xref="BOLD:BON444-07.COI-5P"
+                     /db_xref="taxon:100830"
+                     /country="Norway: Nordland, Basmoen"
+                     /lat_lon="66.33 N 14.10 E"
+                     /collection_date="10-Jun-1996"
+                     /collected_by="Asbjorn Mikalsen, Rana"
+                     /PCR_primers="fwd_seq: ttctccaaccacaaagacattggcac,
+                     rev_seq: acgtgggagataattccaaatcctgg"
+     gene            <1..>723
+                     /gene="COI"
+     CDS             <1..>723
+                     /gene="COI"
+                     /codon_start=3
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ADE23815.1"
+                     /translation="KDIGTLYLIFGTWAGMIGTALSLLIRAELGQPGTLLGDDQIYNV
+                     IVTAHAFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLA
+                     SSTVEAGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMK
+                     PPTLSQYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVL
+                     YQHLFWFFGHPEVYILILPGFG"
+ORIGIN      
+        1 acaaagacat tggcactctt tacctcattt tcggcacatg agcaggcata attggtacag
+       61 cactaagcct gttaatccgt gcagaactag gacagccagg aacactccta ggagatgacc
+      121 aaatctataa cgtaatcgta acagcccatg ccttcgtcat aatcttcttt atagttatgc
+      181 ctatcatgat cgggggcttc gggaattgat tagttcccct tataatcggc gccccagaca
+      241 tagcattccc acgcataaat aacataagct tctgactcct cccaccatct ttccttcttt
+      301 tactagcctc atccactgta gaagccggag ctggtaccgg atgaactgtc tacccccccc
+      361 tagccggtaa cctcgcccac gctggtgcat cagtagacct agctatcttt tccctccacc
+      421 tagcgggcgt atcatccatc ttaggggcta ttaacttcat tactaccatt attaatataa
+      481 aaccccccac actatcacaa taccaaacac ccctattcgt atgatctgtc ctcattactg
+      541 ccattctttt actactctct ctacccgtcc tagctgctgg aattacaata ttactcaccg
+      601 atcggaacct taacactaca ttcttcgacc cagcaggagg aggagaccca gtcctgtacc
+      661 agcacttatt ctgattcttt ggacacccag aagtctatat cctcatcctc ccaggatttg
+      721 gaa
+//
+
+LOCUS       GU572128                 648 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Tetrao urogallus voucher BISE-Aves284 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GU572128
+VERSION     GU572128.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Tetrao urogallus (western capercaillie)
+  ORGANISM  Tetrao urogallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Tetraoninae; Tetrao.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Johnsen,A., Rindal,E., Ericson,P.G.P., Zuccon,D., Kerr,K.C.R.,
+            Stoeckle,M.Y. and Lifjeld,J.T.
+  TITLE     DNA barcoding of Scandinavian birds reveals divergent lineages in
+            trans-Atlantic species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Johnsen,A., Rindal,E., Ericson,P.G.P., Zuccon,D., Kerr,K.C.R.,
+            Stoeckle,M.Y. and Lifjeld,J.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JAN-2010) Natural History Museum, University of Oslo,
+            Sars Gate 1, Oslo, Oslo NO-0562, Norway
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Tetrao urogallus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BISE-Aves284"
+                     /db_xref="BOLD:BISE278-08.COI-5P"
+                     /db_xref="taxon:100830"
+                     /country="Sweden: Stockholm, Loevsta Herrgard,
+                     Skaerplinge"
+                     /lat_lon="60.4706 N 17.7612 E"
+                     /collection_date="01-Oct-1996"
+                     /PCR_primers="fwd_seq: ttctccaaccacaaagacattggcac,
+                     rev_seq: acgtgggagataattccaaatcctg"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ADE24290.1"
+                     /translation="LIFGTWAGMIGTALSLLIRAELGQPGTLLGDDQIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSTVEAG
+                     AGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPTLSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHLF"
+ORIGIN      
+        1 ctaattttcg gcacatgagc aggcataatt ggtacagcac taagcctgtt aatccgtgca
+       61 gaactaggac agccaggaac actcctagga gatgaccaaa tctataacgt aatcgtaaca
+      121 gcccatgcct tcgtcataat cttctttata gttatgccta tcatgatcgg gggcttcggg
+      181 aattgattag ttccccttat aatcggcgcc ccagacatag cattcccacg cataaataac
+      241 ataagcttct gactcctccc accatctttc cttcttttac tagcctcatc cactgtagaa
+      301 gccggagctg gtaccggatg aactgtctac ccccccctag ccggtaacct cgcccacgct
+      361 ggtgcatcag tagacctagc tatcttttcc ctccacctag cgggcgtatc atccatctta
+      421 ggggctatta acttcattac taccattatt aatataaaac cccccacact atcacaatac
+      481 caaacacccc tattcgtatg atctgtcctc attactgcca ttcttttact actctctcta
+      541 cccgtcctag ctgctggaat tacaatatta ctcaccgatc ggaaccttaa cactacattc
+      601 ttcgacccag caggaggagg agacccagtc ctgtaccagc acttattc
+//
+
+LOCUS       GU572129                 648 bp    DNA     linear   VRT 25-JUL-2016
+DEFINITION  Tetrao urogallus voucher BISE-Aves46 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GU572129
+VERSION     GU572129.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Tetrao urogallus (western capercaillie)
+  ORGANISM  Tetrao urogallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Tetraoninae; Tetrao.
+REFERENCE   1  (bases 1 to 648)
+  AUTHORS   Johnsen,A., Rindal,E., Ericson,P.G.P., Zuccon,D., Kerr,K.C.R.,
+            Stoeckle,M.Y. and Lifjeld,J.T.
+  TITLE     DNA barcoding of Scandinavian birds reveals divergent lineages in
+            trans-Atlantic species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 648)
+  AUTHORS   Johnsen,A., Rindal,E., Ericson,P.G.P., Zuccon,D., Kerr,K.C.R.,
+            Stoeckle,M.Y. and Lifjeld,J.T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JAN-2010) Natural History Museum, University of Oslo,
+            Sars Gate 1, Oslo, Oslo NO-0562, Norway
+FEATURES             Location/Qualifiers
+     source          1..648
+                     /organism="Tetrao urogallus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="BISE-Aves46"
+                     /db_xref="BOLD:BISE039-07.COI-5P"
+                     /db_xref="taxon:100830"
+                     /country="Sweden: Sodermanland, Sodermanland, Tyresta
+                     Nationalpark, Stensjon, Oster Stensjons sodra del Lanan,
+                     vid fornborgsstigen, Tyresta-Ava"
+                     /lat_lon="59.2119 N 17.864 E"
+                     /collection_date="10-May-1998"
+                     /PCR_primers="fwd_seq: ttctccaaccacaaagacattggcac,
+                     rev_seq: acgtgggagataattccaaatcctg"
+     gene            <1..>648
+                     /gene="COI"
+     CDS             <1..>648
+                     /gene="COI"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ADE24291.1"
+                     /translation="LIFGTWAGMIGTALSLLIRAELGQPGTLLGDDQIYNVIVTAHAF
+                     VMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSTVEAG
+                     AGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPTLSQY
+                     QTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHLF"
+ORIGIN      
+        1 ctaattttcg gcacatgagc aggcataatt ggtacagcac taagcctgtt aatccgtgca
+       61 gaactaggac agccaggaac actcctagga gatgaccaaa tctataacgt aatcgtaaca
+      121 gcccatgcct tcgtcataat cttctttata gttatgccta tcatgatcgg gggcttcggg
+      181 aattgattag ttccccttat aatcggcgcc ccagacatag cattcccacg cataaataac
+      241 ataagcttct gactcctccc accatctttc cttcttttac tagcctcatc cactgtagaa
+      301 gccggagctg gtaccggatg aactgtctac ccccccctag ccggtaacct cgcccacgct
+      361 ggtgcatcag tagacctagc tatcttttcc ctccacctag cgggcgtatc atccatctta
+      421 ggggctatta acttcattac taccattatt aatataaaac cccccacact atcacaatac
+      481 caaacacccc tattcgtatg atctgtcctc attactgcca ttcttttact actctctcta
+      541 cccgtcctag ctgctggaat tacaatatta ctcaccgatc ggaaccttaa cactacattc
+      601 ttcgacccag caggaggagg agacccagtc ctgtaccagc acttattc
+//
+
+LOCUS       GQ482771                 694 bp    DNA     linear   VRT 24-JUL-2016
+DEFINITION  Tetrao urogallus voucher UWBM 49746 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ482771
+VERSION     GQ482771.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Tetrao urogallus (western capercaillie)
+  ORGANISM  Tetrao urogallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Tetraoninae; Tetrao.
+REFERENCE   1  (bases 1 to 694)
+  AUTHORS   Kerr,K.C., Birks,S.M., Kalyakin,M.V., Red'kin,Y.A., Koblik,E.A. and
+            Hebert,P.D.
+  TITLE     Filling the gap - COI barcode resolution in eastern Palearctic
+            birds
+  JOURNAL   Front. Zool. 6, 29 (2009)
+   PUBMED   20003213
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 694)
+  AUTHORS   Kerr,K.C.R., Birks,S.M., Kalyakin,M. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-AUG-2009) Integrative Biology, University of Guelph,
+            50 Stone Road East, Guelph, Ontario N1G 2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..694
+                     /organism="Tetrao urogallus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UWBM 49746"
+                     /db_xref="BOLD:KBPBU106-06"
+                     /db_xref="taxon:100830"
+                     /country="Russia: Murmanskaya Oblast, Umba, shore of
+                     Kandalakshskaya Guba"
+                     /lat_lon="66.5833 N 34.9333 E"
+                     /collection_date="14-Jul-1994"
+                     /collected_by="B. K. Schmidt"
+                     /PCR_primers="fwd_seq: ttctccaaccacaaagacattggcac,
+                     rev_seq: acgtgggagataattccaaatcctgg"
+     gene            <1..>694
+                     /gene="COI"
+     CDS             <1..>694
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACV46002.1"
+                     /translation="LYLIFGTWAGMIGTALSLLIRAELGQPGTLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSTVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPTLS
+                     QYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHLF
+                     WFFGHPEVYILIL"
+ORIGIN      
+        1 tctttaccta attttcggca catgagcagg cataattggt acagcactaa gcctgttaat
+       61 ccgtgcagaa ctaggacagc caggaacact cctaggagat gaccaaatct ataacgtaat
+      121 cgtaacagcc catgccttcg tcataatctt ctttatagtt atgcctatca tgatcggggg
+      181 cttcgggaat tgattagttc cccttataat cggcgcccca gacatagcat tcccacgcat
+      241 aaataacata agcttctgac tcctcccacc atctttcctt cttttactag cctcatccac
+      301 tgtagaagcc ggagctggta ccggatgaac tgtctacccc cccctagccg gtaacctcgc
+      361 ccacgctggt gcatcagtag acctagctat cttttccctc cacctagcgg gcgtatcatc
+      421 catcttaggg gctattaact tcattactac cattattaat ataaaacccc ccacactatc
+      481 acaataccaa acacccctat tcgtatgatc tgtcctcatt actgccattc ttttactact
+      541 ctctctaccc gtcctagctg ctggaattac aatattactc accgatcgga accttaacac
+      601 tacattcttc gacccagcag gaggaggaga cccagtcctg taccagcact tattctgatt
+      661 ctttggacac ccagaagtct atatcctcat cctc
+//
+
+LOCUS       GQ482772                 694 bp    DNA     linear   VRT 24-JUL-2016
+DEFINITION  Tetrao urogallus voucher UWBM 66698 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ482772
+VERSION     GQ482772.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Tetrao urogallus (western capercaillie)
+  ORGANISM  Tetrao urogallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Tetraoninae; Tetrao.
+REFERENCE   1  (bases 1 to 694)
+  AUTHORS   Kerr,K.C., Birks,S.M., Kalyakin,M.V., Red'kin,Y.A., Koblik,E.A. and
+            Hebert,P.D.
+  TITLE     Filling the gap - COI barcode resolution in eastern Palearctic
+            birds
+  JOURNAL   Front. Zool. 6, 29 (2009)
+   PUBMED   20003213
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 694)
+  AUTHORS   Kerr,K.C.R., Birks,S.M., Kalyakin,M. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-AUG-2009) Integrative Biology, University of Guelph,
+            50 Stone Road East, Guelph, Ontario N1G 2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..694
+                     /organism="Tetrao urogallus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UWBM 66698"
+                     /db_xref="BOLD:KBPBU108-06"
+                     /db_xref="taxon:100830"
+                     /country="Russia: Tuva, Ovyurskiy Kozhuun, Kyzyl"
+                     /lat_lon="50.7667 N 91.5167 E"
+                     /collection_date="28-Jun-2000"
+                     /collected_by="S. V. Drovetski"
+                     /PCR_primers="fwd_seq: ttctccaaccacaaagacattggcac,
+                     rev_seq: acgtgggagataattccaaatcctgg"
+     gene            <1..>694
+                     /gene="COI"
+     CDS             <1..>694
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACV46003.1"
+                     /translation="LYLIFGTWAGMIGTALSLLIRAELGQPGTLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSTVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPTLS
+                     QYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHLF
+                     WFFGHPEVYILIL"
+ORIGIN      
+        1 tctttaccta attttcggca catgagcagg cataattggt acagcactaa gcctgttaat
+       61 ccgtgcagaa ctaggacagc caggaacact cctaggagat gaccaaatct ataacgtaat
+      121 cgtaacagcc catgccttcg tcataatctt ctttatagtt atgcctatca tgatcggggg
+      181 cttcgggaat tgattagttc cccttataat cggcgcccca gacatagcat tcccacgcat
+      241 aaataacata agcttctgac tcctcccacc atctttcctt cttttactag cctcatccac
+      301 tgtagaagcc ggagctggta ccggatgaac tgtctacccc cccctagccg gtaacctcgc
+      361 ccacgctggt gcatcagtag acctagctat cttttccctc cacctagcgg gcgtatcatc
+      421 catcttaggg gctattaact tcattactac cattattaat ataaaacccc ccacactatc
+      481 acaataccaa acacccctat tcgtatgatc tgtcctcatt actgccattc ttttactact
+      541 ctctctaccc gtcctagctg ctggaattac aatattactc accgatcgga accttaacac
+      601 tacattcttc gacccagcag gaggaggaga cccagtcctg taccagcact tattctgatt
+      661 ctttggacac ccagaagtct atatcctcat cctc
+//
+
+LOCUS       GQ482773                 694 bp    DNA     linear   VRT 24-JUL-2016
+DEFINITION  Tetrao urogallus voucher UWBM 61546 cytochrome oxidase subunit 1
+            (COI) gene, partial cds; mitochondrial.
+ACCESSION   GQ482773
+VERSION     GQ482773.1
+KEYWORDS    BARCODE.
+SOURCE      mitochondrion Tetrao urogallus (western capercaillie)
+  ORGANISM  Tetrao urogallus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Galloanserae; Galliformes;
+            Phasianidae; Tetraoninae; Tetrao.
+REFERENCE   1  (bases 1 to 694)
+  AUTHORS   Kerr,K.C., Birks,S.M., Kalyakin,M.V., Red'kin,Y.A., Koblik,E.A. and
+            Hebert,P.D.
+  TITLE     Filling the gap - COI barcode resolution in eastern Palearctic
+            birds
+  JOURNAL   Front. Zool. 6, 29 (2009)
+   PUBMED   20003213
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 694)
+  AUTHORS   Kerr,K.C.R., Birks,S.M., Kalyakin,M. and Hebert,P.D.N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-AUG-2009) Integrative Biology, University of Guelph,
+            50 Stone Road East, Guelph, Ontario N1G 2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..694
+                     /organism="Tetrao urogallus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="UWBM 61546"
+                     /db_xref="BOLD:KBPBU107-06"
+                     /db_xref="taxon:100830"
+                     /country="Russia: Rossiya, Moscovskaya Oblast"
+                     /collected_by="S. V. Drovetski"
+                     /PCR_primers="fwd_seq: ttctccaaccacaaagacattggcac,
+                     rev_seq: acgtgggagataattccaaatcctgg"
+     gene            <1..>694
+                     /gene="COI"
+     CDS             <1..>694
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit 1"
+                     /protein_id="ACV46004.1"
+                     /translation="LYLIFGTWAGMIGTALSLLIRAELGQPGTLLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLVPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSTVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLAIFSLHLAGVSSILGAINFITTIINMKPPTLS
+                     QYQTPLFVWSVLITAILLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPVLYQHLF
+                     WFFGHPEVYILIL"
+ORIGIN      
+        1 tctttaccta attttcggca catgagcagg cataattggt acagcactaa gcctgttaat
+       61 ccgtgcagaa ctaggacagc caggaacact cctaggagat gaccaaatct ataacgtaat
+      121 cgtaacagcc catgccttcg tcataatctt ctttatagtt atgcctatca tgatcggggg
+      181 cttcgggaat tgattagttc cccttataat cggcgcccca gacatagcat tcccacgcat
+      241 aaataacata agcttctgac tcctcccacc atctttcctt cttttactag cctcatccac
+      301 tgtagaagcc ggagctggta ccggatgaac tgtctacccc cccctagccg gtaacctcgc
+      361 ccacgctggt gcatcagtag acctagctat cttttccctc cacctagcgg gcgtatcatc
+      421 catcttaggg gctattaact tcattactac cattattaat ataaaacccc ccacactatc
+      481 acaataccaa acacccctat tcgtatgatc tgtcctcatt actgccattc ttttactact
+      541 ctctctaccc gtcctagctg ctggaattac aatattactc accgatcgga accttaacac
+      601 tacattcttc gacccagcag gaggaggaga cccagtcctg taccagcact tattctgatt
+      661 ctttggacac ccagaagtct atatcctcat cctc
+//
+

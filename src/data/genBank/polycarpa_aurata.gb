@@ -1,0 +1,170 @@
+LOCUS       LC455705                 635 bp    DNA     linear   INV 10-JAN-2019
+DEFINITION  Polycarpa aurata A4 mitochondrial COI gene, cytochrome oxidase
+            subunit I, partial sequence.
+ACCESSION   LC455705
+VERSION     LC455705.1
+KEYWORDS    .
+SOURCE      mitochondrion Polycarpa aurata
+  ORGANISM  Polycarpa aurata
+            Eukaryota; Metazoa; Chordata; Tunicata; Ascidiacea;
+            Stolidobranchia; Styelidae; Polycarpa.
+REFERENCE   1
+  AUTHORS   Ayuningrum,D., Radjasa,O.K., Sabdono,A. and Trianto,A.
+  TITLE     Crude Extract Activity from Bacteria Associated with Tunicate,
+            Policarpa aurata collected from Lease Sea, Mollucas, Indonesia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 635)
+  AUTHORS   Ayuningrum,D., Radjasa,O.K., Sabdono,A. and Trianto,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JAN-2019) Contact:Diah Ayuningrum Diponegoro
+            University, Coastal Resource Management; Prof. Soedarto, SH,
+            Tembalang, Semarang, Central Java 50275, Indonesia URL
+            :https://www.undip.ac.id/language/id/
+FEATURES             Location/Qualifiers
+     source          1..635
+                     /organism="Polycarpa aurata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="A4"
+                     /db_xref="taxon:582575"
+                     /country="Indonesia"
+                     /collection_date="2018-09-02"
+                     /collected_by="Diving team Mada, Rhesi, Dio"
+                     /PCR_primers="fwd_name: LCOI, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCOI, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+                     /note="tunicate"
+     gene            <1..>635
+                     /gene="COI"
+     misc_feature    <1..>635
+                     /gene="COI"
+                     /note="coding region not determined;
+                     cytochrome oxidase subunit I"
+ORIGIN      
+        1 tttcgactaa tcataaagat attaggactt tgtattttat ttttagggtt tgagctggtt
+       61 tggttagaac cggtatgagt gtttttattc gtcttgagtt gtctcaaatt ggacaggtgg
+      121 taagggacgg gcagctgtac aacgtggttg tgacggcgca tgcttttgtt atgatctttt
+      181 tttttgtaat accaattata attggtggtt ttagaaattg gctgttgcct ttgatggtgg
+      241 gtagcccaga tatggctttt cctcgtttaa ataacataag cttttggctt cttcctcctg
+      301 cgttgtttct gctactgatt agttcaataa ttgaaagtgg ggttagaaca ggctgaacag
+      361 tgtatccacc tctagctaga aatctagcac actctggggc tgctttggat tgtgctattt
+      421 tttcgttgca cttggctggg gtctctagta ttttgggttc tttaaatttt ataactactt
+      481 tgtttaatat gaagacgaaa aggtgggatt tattttctat gcctttgttt tgttgaacag
+      541 tgttggtgac cactattttg ttgttacttt ctcttcctgt tttggcggct gctattacaa
+      601 tgctattgtt tgatcgtaat ttaaatacaa gttaa
+//
+
+LOCUS       LC455707                 636 bp    DNA     linear   INV 10-JAN-2019
+DEFINITION  Polycarpa aurata A7 mitochondrial COI gene, cytochrome oxidase
+            subunit I, partial sequence.
+ACCESSION   LC455707
+VERSION     LC455707.1
+KEYWORDS    .
+SOURCE      mitochondrion Polycarpa aurata
+  ORGANISM  Polycarpa aurata
+            Eukaryota; Metazoa; Chordata; Tunicata; Ascidiacea;
+            Stolidobranchia; Styelidae; Polycarpa.
+REFERENCE   1
+  AUTHORS   Ayuningrum,D., Radjasa,O.K., Sabdono,A. and Trianto,A.
+  TITLE     Crude Extract Activity from Bacteria Associated with Tunicate,
+            Policarpa aurata collected from Lease Sea, Mollucas, Indonesia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Ayuningrum,D., Radjasa,O.K., Sabdono,A. and Trianto,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-JAN-2019) Contact:Diah Ayuningrum Diponegoro
+            University, Coastal Resource Management; Prof. Soedarto, SH,
+            Tembalang, Semarang, Central Java 50275, Indonesia URL
+            :https://www.undip.ac.id/language/id/
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /organism="Polycarpa aurata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="A7"
+                     /db_xref="taxon:582575"
+                     /country="Indonesia"
+                     /collection_date="2018-09-02"
+                     /collected_by="Diving team Mada, Rhesi, Dio"
+                     /PCR_primers="fwd_name: LCOI, fwd_seq:
+                     ggtcaacaaatcataaagatattgg, rev_name: HCOI, rev_seq:
+                     taaacttcagggtgaccaaaaaatca"
+                     /note="tunicate"
+     gene            <1..>636
+                     /gene="COI"
+     misc_feature    <1..>636
+                     /gene="COI"
+                     /note="coding region not determined;
+                     cytochrome oxidase subunit I"
+ORIGIN      
+        1 tttcgactaa tcataaagat attaggactt tgtattttat ttttagggtt tgagctggtt
+       61 tggttagaac tggtatgagt gtttttattc gtcttgagtt gtctcaaatt ggacaggtag
+      121 taagggacgg gcagctgtac aatgtagttg tgacggcgca tgcttttgtt atgatctttt
+      181 tttttgtaat accaattata attggtggtt ttagaaattg gctgctgcct ttgatggtgg
+      241 gtagcccaga tatggctttt cctcgtttaa ataatataag tttttggctt cttcctcctg
+      301 cgttgtttct actactgatt agttcaataa ttgaaagcgg ggttagaaca ggctgaaccg
+      361 tttatccacc cctagctaga aatttagcac actctggggc cgctttggat tgtgctattt
+      421 tttcgttgca cttggctggg gtttctagta ttctgggctc tttaaatttt ataactactt
+      481 tgtttaatat gaagacgaaa aggtgggatt tattttctat gcctttgttt tgttgaacag
+      541 tgttggtgac cactattttg ttgctacttt ctcttcctgt tttggcggct gctattacaa
+      601 tgttattgtt tgatcgtaat ttaaatacaa gttaaa
+//
+
+LOCUS       FJ528646                 671 bp    DNA     linear   INV 03-JAN-2014
+DEFINITION  Polycarpa aurata isolate 40 cytochrome oxidase subunit I (COI)
+            gene, partial cds; mitochondrial.
+ACCESSION   FJ528646
+VERSION     FJ528646.1
+KEYWORDS    .
+SOURCE      mitochondrion Polycarpa aurata
+  ORGANISM  Polycarpa aurata
+            Eukaryota; Metazoa; Chordata; Tunicata; Ascidiacea;
+            Stolidobranchia; Styelidae; Polycarpa.
+REFERENCE   1  (bases 1 to 671)
+  AUTHORS   Perez-Portela,R., Bishop,J.D., Davis,A.R. and Turon,X.
+  TITLE     Phylogeny of the families Pyuridae and Styelidae
+            (Stolidobranchiata, Ascidiacea) inferred from mitochondrial and
+            nuclear DNA sequences
+  JOURNAL   Mol. Phylogenet. Evol. 50 (3), 560-570 (2009)
+   PUBMED   19059353
+REFERENCE   2  (bases 1 to 671)
+  AUTHORS   Perez-Portela,R., Bishop,J.D.D., Davis,A.R. and Turon,X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-DEC-2008) Animal Biology (Invertebrates), University
+            of Barcelona, Faculty of Biology, Diagonal Avenue, 645, Barcelona
+            08028, Spain
+FEATURES             Location/Qualifiers
+     source          1..671
+                     /organism="Polycarpa aurata"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="40"
+                     /db_xref="taxon:582575"
+     gene            <1..>671
+                     /gene="COI"
+     CDS             <1..>671
+                     /gene="COI"
+                     /codon_start=2
+                     /transl_table=13
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="ACL79683.1"
+                     /translation="GTLYFIFGVWAGLVGTGMSVFIRLELSQIGQVVGDGQLYNVVVT
+                     AHAFVMIFFFVMPIMIGGFGNWLLPLMVGSPDMAFPRLNNMSFWLLPPALFLLLISSM
+                     IESGVGTGWTVYPPLAGNLAHSGAALDCAIFSLHLAGVSSILGSLNFMTTLFNMKTKG
+                     WDLFSMPLFCWTVLVTTILLLLSLPVLAAAITMLLFDRNFNTSFFDPAGGGDPVLYQH
+                     LFWFF"
+ORIGIN      
+        1 tgggactttg tattttattt ttagggtttg agctggtttg gttggaactg gtataagtgt
+       61 ttttattcgt cttgagttgt ctcaaattag acaggtggta agggacgggc agctgtacaa
+      121 cgtggttgtg acggcgcatg cttttgttat gatctttttt tttgtaatac caattataat
+      181 tggtggtttt agaaattggt tgctgccttt aatggtgggt agtccagata tggcttttcc
+      241 tcgtttaaat aacataagtt tttggcttct tcctcctgcg ttgtttctac ttttgattag
+      301 ttcaataatt gagagtgggg tcagaaccgg ttggacagtg tatccacctt tagctagaaa
+      361 tttagcacac tctggagctg ctttggattg tgctattttt tcgttgcatt tggctagggt
+      421 ttctagtatt ttgggttctt taaatttcat aaccactttg tttaatataa agacgaaggg
+      481 gtgggatttg ttttctatgc ctttgttttg ttgaacagtg ctggtgacta ctattttgtt
+      541 gttgctttct cttcctgttt tggcggctgc tattacaatg ttgctgtttg atcgtaattt
+      601 taatacgtct ttttttgatc ctgcgggagg gggggatcct gtcctctatc agcatttgtt
+      661 ttgatttttt g
+//
+

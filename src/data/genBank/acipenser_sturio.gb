@@ -1,0 +1,144 @@
+LOCUS       KJ552406                 652 bp    DNA     linear   VRT 30-OCT-2014
+DEFINITION  Acipenser sturio isolate Ex47C12 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial.
+ACCESSION   KJ552406
+VERSION     KJ552406.1
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser sturio (sturgeon)
+  ORGANISM  Acipenser sturio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 652)
+  AUTHORS   Geiger,M.F., Herder,F., Monaghan,M.T., Almada,V., Barbieri,R.,
+            Bariche,M., Berrebi,P., Bohlen,J., Casal-Lopez,M., Delmastro,G.B.,
+            Denys,G.P., Dettai,A., Doadrio,I., Kalogianni,E., Karst,H.,
+            Kottelat,M., Kovacic,M., Laporte,M., Lorenzoni,M., Marcic,Z.,
+            Ozulug,M., Perdices,A., Perea,S., Persat,H., Porcelotti,S.,
+            Puzzi,C., Robalo,J., Sanda,R., Schneider,M., Slechtova,V.,
+            Stoumboudi,M., Walter,S. and Freyhof,J.
+  TITLE     Spatial heterogeneity in the Mediterranean Biodiversity Hotspot
+            affects barcoding accuracy of its freshwater fishes
+  JOURNAL   Mol Ecol Resour 14 (6), 1210-1221 (2014)
+   PUBMED   24690331
+REFERENCE   2  (bases 1 to 652)
+  AUTHORS   Geiger,M.F., Herder,F., Monaghan,M.T., Almada,V., Barbieri,R.,
+            Bariche,M., Berrebi,P., Bohlen,J., Casal-Lopez,M., Delmastro,G.B.,
+            Denys,G.P.J., Dettai,A., Doadrio,I., Kalogianni,E., Kaerst,H.,
+            Kottelat,M., Kovacic,M., Laporte,M., Lorenzoni,M., Marcic,Z.,
+            Ozulug,M., Perdices,A., Perea,S., Persat,H., Porcelotti,S.,
+            Puzzi,C., Robalo,J., Sanda,R., Schneider,M., Slechtova,V.,
+            Stoumboudi,M., Walter,S. and Freyhof,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAR-2014) Ichthyology, ZFMK, Adenauerallee 160, Bonn,
+            NRW 53113, Germany
+FEATURES             Location/Qualifiers
+     source          1..652
+                     /organism="Acipenser sturio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ex47C12"
+                     /specimen_voucher="ZFMK:50001"
+                     /db_xref="BOLD:FFMBH2086-14.COI-5P"
+                     /db_xref="taxon:61674"
+                     /country="France: Gironde drainage"
+                     /lat_lon="45.428 N 0.866 W"
+                     /PCR_primers="fwd_name: VF2_t1, fwd_seq:
+                     tgtaaaacgacggccagtcaaccaaccacaaagacattggcac, rev_name:
+                     FR1d_t1, rev_seq:
+                     caggaaacagctatgacacctcagggtgtccgaaraaycaraa"
+     CDS             <1..>652
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHW77157.1"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAVS
+                     QYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTFFDPAGGGDPILYQHL"
+ORIGIN      
+        1 cctgtattta gtatttggtg cctgagcagg catagtcggc acagccctca gccttctgat
+       61 ccgtgccgaa ctgagccaac ccggtgccct gcttggcgat gatcagattt acaatgttat
+      121 cgtcacagcc cacgcctttg tcatgatttt ctttatagta atacccatca taatcggcgg
+      181 tttcggaaac tgactgattc ccttaataat tggagcccca gatatggcat ttcctcgcat
+      241 gaacaatatg agcttctggc tcctaccccc atcatttcta ctccttttgg cctcctctgg
+      301 cgtagaggcc ggagctggca caggatgaac cgtctacccc ccacttgcgg ggaacctagc
+      361 ccatgcagga gcctctgtgg acctaaccat tttctccctt cacctggctg gggtatcatc
+      421 cattttaggg gctattaact ttattaccac aatcattaac atgaagcccc ccgcagtatc
+      481 ccagtatcag acacctctat ttgtgtgatc tgtattaatc acggccgttc ttctcctact
+      541 gtcactgcca gtgctagctg cagggatcac aatactccta acagaccgta atttaaacac
+      601 caccttcttt gacccggccg gaggaggaga ccccattctc taccaacacc ta
+//
+
+LOCUS       KJ552473                 609 bp    DNA     linear   VRT 30-OCT-2014
+DEFINITION  Acipenser sturio isolate Ex47C11 cytochrome oxidase subunit I gene,
+            partial cds; mitochondrial.
+ACCESSION   KJ552473
+VERSION     KJ552473.1
+KEYWORDS    .
+SOURCE      mitochondrion Acipenser sturio (sturgeon)
+  ORGANISM  Acipenser sturio
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Chondrostei; Acipenseriformes; Acipenseridae;
+            Acipenser.
+REFERENCE   1  (bases 1 to 609)
+  AUTHORS   Geiger,M.F., Herder,F., Monaghan,M.T., Almada,V., Barbieri,R.,
+            Bariche,M., Berrebi,P., Bohlen,J., Casal-Lopez,M., Delmastro,G.B.,
+            Denys,G.P., Dettai,A., Doadrio,I., Kalogianni,E., Karst,H.,
+            Kottelat,M., Kovacic,M., Laporte,M., Lorenzoni,M., Marcic,Z.,
+            Ozulug,M., Perdices,A., Perea,S., Persat,H., Porcelotti,S.,
+            Puzzi,C., Robalo,J., Sanda,R., Schneider,M., Slechtova,V.,
+            Stoumboudi,M., Walter,S. and Freyhof,J.
+  TITLE     Spatial heterogeneity in the Mediterranean Biodiversity Hotspot
+            affects barcoding accuracy of its freshwater fishes
+  JOURNAL   Mol Ecol Resour 14 (6), 1210-1221 (2014)
+   PUBMED   24690331
+REFERENCE   2  (bases 1 to 609)
+  AUTHORS   Geiger,M.F., Herder,F., Monaghan,M.T., Almada,V., Barbieri,R.,
+            Bariche,M., Berrebi,P., Bohlen,J., Casal-Lopez,M., Delmastro,G.B.,
+            Denys,G.P.J., Dettai,A., Doadrio,I., Kalogianni,E., Kaerst,H.,
+            Kottelat,M., Kovacic,M., Laporte,M., Lorenzoni,M., Marcic,Z.,
+            Ozulug,M., Perdices,A., Perea,S., Persat,H., Porcelotti,S.,
+            Puzzi,C., Robalo,J., Sanda,R., Schneider,M., Slechtova,V.,
+            Stoumboudi,M., Walter,S. and Freyhof,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-MAR-2014) Ichthyology, ZFMK, Adenauerallee 160, Bonn,
+            NRW 53113, Germany
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /organism="Acipenser sturio"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /isolate="Ex47C11"
+                     /specimen_voucher="ZFMK:50000"
+                     /db_xref="BOLD:FFMBH2085-14.COI-5P"
+                     /db_xref="taxon:61674"
+                     /country="France: Gironde drainage"
+                     /lat_lon="45.428 N 0.866 W"
+                     /PCR_primers="fwd_name: VF2_t1, fwd_seq:
+                     tgtaaaacgacggccagtcaaccaaccacaaagacattggcac, rev_name:
+                     FR1d_t1, rev_seq:
+                     caggaaacagctatgacacctcagggtgtccgaaraaycaraa"
+     CDS             <1..>609
+                     /codon_start=2
+                     /transl_table=2
+                     /product="cytochrome oxidase subunit I"
+                     /protein_id="AHW77224.1"
+                     /translation="LYLVFGAWAGMVGTALSLLIRAELSQPGALLGDDQIYNVIVTAH
+                     AFVMIFFMVMPIMIGGFGNWLIPLMIGAPDMAFPRMNNMSFWLLPPSFLLLLASSGVE
+                     AGAGTGWTVYPPLAGNLAHAGASVDLTIFSLHLAGVSSILGAINFITTIINMKPPAVS
+                     QYQTPLFVWSVLITAVLLLLSLPVLAAGITMLLTDRNLNTTF"
+ORIGIN      
+        1 cctgtattta gtatttggtg cctgagcagg catagtcggc acagccctca gccttctgat
+       61 ccgtgccgaa ctgagccaac ccggtgccct gcttggcgat gatcagattt acaatgttat
+      121 cgtcacagcc cacgcctttg tcatgatttt ctttatagta atacccatca taatcggcgg
+      181 tttcggaaac tgactgattc ccttaataat tggagcccca gatatggcat ttcctcgcat
+      241 gaacaatatg agcttctggc tcctaccccc atcatttcta ctccttttgg cctcctctgg
+      301 cgtagaggcc ggagctggca caggatgaac cgtctacccc ccacttgcgg ggaacctagc
+      361 ccatgcagga gcctctgtgg acctaaccat tttctccctt cacctggctg gggtatcatc
+      421 cattttaggg gctattaact ttattaccac aatcattaac atgaagcccc ccgcagtatc
+      481 ccagtatcag acacctctat ttgtgtgatc tgtattaatc acggccgttc ttctcctact
+      541 gtcactgcca gtgctagctg cagggatcac aatactccta acagaccgta atttaaacac
+      601 caccttttt
+//
+
