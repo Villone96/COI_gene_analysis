@@ -1,4 +1,4 @@
-# Genes analysis
+# Biosciences analysis
 ## Data Science Lab in Biosciences
 ### Giacomo Villa - Università degli studi di Milano-Bicocca 
 Analysis about:
