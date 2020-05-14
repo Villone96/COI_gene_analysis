@@ -1,0 +1,46 @@
+(
+XP_020045051 tryptophanyl-tRNA synthetase [Ascoidea rubescens DSM 1968]:0.146763
+,
+(
+XP_019019893 hypothetical protein PICMEDRAFT_29905 [Pichia membranifaciens NRRL Y-2026]:0.11531
+,
+(
+XP_004178593 hypothetical protein TBLA_0B02320 [Tetrapisispora blattae CBS 6284]:0.0969941
+,
+(
+XP_017985516 HBL382Wp [Eremothecium sinecaudum]:0.0918184
+,
+(
+(
+NP_014544 tryptophan--tRNA ligase WRS1 [Saccharomyces cerevisiae S288C]:0.0264075
+,
+XP_018221696 WRS1-like protein [Saccharomyces eubayanus]:0.0264075
+):0.0652666
+,
+(
+XP_003688693 hypothetical protein TPHA_0P01010 [Tetrapisispora phaffii CBS 4417]:0.0912045
+,
+(
+(
+XP_002552643 KLTH0C09768p [Lachancea thermotolerans CBS 6340]:0.0562707
+,
+XP_022629658 uncharacterized protein LALA0_S08e02520g [Lachancea lanzarotensis]:0.0562707
+):0.0330609
+,
+(
+XP_451874 uncharacterized protein KLLA0_B07733g [Kluyveromyces lactis]:0.087158
+,
+(
+XP_001643885 hypothetical protein Kpol_495p25 [Vanderwaltozyma polyspora DSM 70294]:0.0842039
+,
+XP_003675850 hypothetical protein NCAS_0C04960 [Naumovozyma castellii CBS 4309]:0.0842039
+):0.00295411
+):0.00217357
+):0.00187294
+):0.00046967
+):0.000144266
+):0.00517567
+):0.0183154
+):0.0314536
+)
+;

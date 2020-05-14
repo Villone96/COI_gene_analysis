@@ -1,0 +1,1441 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastx</BlastOutput_program>
+  <BlastOutput_version>BLASTX 2.10.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_30161</BlastOutput_query-ID>
+  <BlastOutput_query-def>KY973682.1 Anisakis simplex cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial</BlastOutput_query-def>
+  <BlastOutput_query-len>422</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_30161</Iteration_query-ID>
+  <Iteration_query-def>KY973682.1 Anisakis simplex cytochrome c oxidase subunit I (COI) gene, partial cds; mitochondrial</Iteration_query-def>
+  <Iteration_query-len>422</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|YP_009113342.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Anisakis berlandi]</Hit_def>
+  <Hit_accession>YP_009113342</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>270.396</Hsp_bit-score>
+      <Hsp_score>690</Hsp_score>
+      <Hsp_evalue>3.1176e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|YP_009355296.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Anisakis pegreffii]</Hit_def>
+  <Hit_accession>YP_009355296</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>270.396</Hsp_bit-score>
+      <Hsp_score>690</Hsp_score>
+      <Hsp_evalue>3.18565e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|YP_009312558.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Pseudoterranova krabbei]</Hit_def>
+  <Hit_accession>YP_009312558</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>270.396</Hsp_bit-score>
+      <Hsp_score>690</Hsp_score>
+      <Hsp_evalue>3.62635e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|YP_009312522.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Pseudoterranova bulbosa]</Hit_def>
+  <Hit_accession>YP_009312522</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>270.011</Hsp_bit-score>
+      <Hsp_score>689</Hsp_score>
+      <Hsp_evalue>4.54926e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|YP_009312534.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Pseudoterranova cattani]</Hit_def>
+  <Hit_accession>YP_009312534</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>270.011</Hsp_bit-score>
+      <Hsp_score>689</Hsp_score>
+      <Hsp_evalue>4.75003e-86</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>137</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|YP_009330779.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Cylicocyclus nassatus]</Hit_def>
+  <Hit_accession>YP_009330779</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>269.24</Hsp_bit-score>
+      <Hsp_score>687</Hsp_score>
+      <Hsp_evalue>1.09075e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|YP_009631797.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Coronocyclus labiatus]</Hit_def>
+  <Hit_accession>YP_009631797</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.855</Hsp_bit-score>
+      <Hsp_score>686</Hsp_score>
+      <Hsp_evalue>1.13888e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|YP_009310879.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Triodontophorus nipponicus]</Hit_def>
+  <Hit_accession>YP_009310879</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.855</Hsp_bit-score>
+      <Hsp_score>686</Hsp_score>
+      <Hsp_evalue>1.3247e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|YP_003434131.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Chabertia ovina]</Hit_def>
+  <Hit_accession>YP_003434131</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.855</Hsp_bit-score>
+      <Hsp_score>686</Hsp_score>
+      <Hsp_evalue>1.38315e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|YP_009743759.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Cylicocyclus ashworthi]</Hit_def>
+  <Hit_accession>YP_009743759</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.47</Hsp_bit-score>
+      <Hsp_score>685</Hsp_score>
+      <Hsp_evalue>1.66176e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>ref|YP_003433879.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Oesophagostomum dentatum]</Hit_def>
+  <Hit_accession>YP_003433879</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.47</Hsp_bit-score>
+      <Hsp_score>685</Hsp_score>
+      <Hsp_evalue>1.6798e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|YP_009525792.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Cylicocyclus radiatus]</Hit_def>
+  <Hit_accession>YP_009525792</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.47</Hsp_bit-score>
+      <Hsp_score>685</Hsp_score>
+      <Hsp_evalue>1.75392e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|YP_009131586.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Strongylus equinus]</Hit_def>
+  <Hit_accession>YP_009131586</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.47</Hsp_bit-score>
+      <Hsp_score>685</Hsp_score>
+      <Hsp_evalue>1.79219e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|YP_009383826.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Cyathostomum catinatum]</Hit_def>
+  <Hit_accession>YP_009383826</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.47</Hsp_bit-score>
+      <Hsp_score>685</Hsp_score>
+      <Hsp_evalue>1.89158e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMIFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM+FQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>ref|YP_009498562.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Cyathostomum pateratum]</Hit_def>
+  <Hit_accession>YP_009498562</Hit_accession>
+  <Hit_len>524</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.47</Hsp_bit-score>
+      <Hsp_score>685</Hsp_score>
+      <Hsp_evalue>2.05337e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMIFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM+FQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>ref|YP_009672773.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Cylicocyclus auriculatus]</Hit_def>
+  <Hit_accession>YP_009672773</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.085</Hsp_bit-score>
+      <Hsp_score>684</Hsp_score>
+      <Hsp_evalue>2.24819e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>ref|YP_004123396.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Contracaecum rudolphii B Bullini et al., 1986]</Hit_def>
+  <Hit_accession>YP_004123396</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.085</Hsp_bit-score>
+      <Hsp_score>684</Hsp_score>
+      <Hsp_evalue>2.24819e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>ref|YP_009312594.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Contracaecum ogmorhini sensu lato Pacific Canada]</Hit_def>
+  <Hit_accession>YP_009312594</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.085</Hsp_bit-score>
+      <Hsp_score>684</Hsp_score>
+      <Hsp_evalue>2.27258e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>ref|YP_537096.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Anisakis simplex]</Hit_def>
+  <Hit_accession>YP_537096</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.085</Hsp_bit-score>
+      <Hsp_score>684</Hsp_score>
+      <Hsp_evalue>2.29725e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>136</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFYY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHF+Y</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|YP_003433739.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Cylicocyclus insigne]</Hit_def>
+  <Hit_accession>YP_003433739</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.085</Hsp_bit-score>
+      <Hsp_score>684</Hsp_score>
+      <Hsp_evalue>2.37286e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVILSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>ref|YP_001905892.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Toxocara canis]</Hit_def>
+  <Hit_accession>YP_001905892</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.085</Hsp_bit-score>
+      <Hsp_score>684</Hsp_score>
+      <Hsp_evalue>2.39861e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>ref|YP_009312570.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Contracaecum ogmorhini sensu lato Australia]</Hit_def>
+  <Hit_accession>YP_009312570</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.085</Hsp_bit-score>
+      <Hsp_score>684</Hsp_score>
+      <Hsp_evalue>2.50444e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>ref|YP_001795390.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Toxocara malaysiensis]</Hit_def>
+  <Hit_accession>YP_001795390</Hit_accession>
+  <Hit_len>526</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.085</Hsp_bit-score>
+      <Hsp_score>684</Hsp_score>
+      <Hsp_evalue>2.80175e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>ref|YP_009450248.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Ortleppascaris sinensis]</Hit_def>
+  <Hit_accession>YP_009450248</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.085</Hsp_bit-score>
+      <Hsp_score>684</Hsp_score>
+      <Hsp_evalue>2.85078e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>ref|YP_009027241.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Contracaecum osculatum]</Hit_def>
+  <Hit_accession>YP_009027241</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>268.085</Hsp_bit-score>
+      <Hsp_score>684</Hsp_score>
+      <Hsp_evalue>2.9446e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>ref|YP_001936464.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Toxocara cati]</Hit_def>
+  <Hit_accession>YP_001936464</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.7</Hsp_bit-score>
+      <Hsp_score>683</Hsp_score>
+      <Hsp_evalue>3.31582e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>134</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>ref|YP_009388737.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Ancylostoma ceylanicum]</Hit_def>
+  <Hit_accession>YP_009388737</Hit_accession>
+  <Hit_len>528</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.7</Hsp_bit-score>
+      <Hsp_score>683</Hsp_score>
+      <Hsp_evalue>3.43112e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>250</Hsp_hit-from>
+      <Hsp_hit-to>389</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIVSQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGI+ QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>ref|NP_579952.2|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Ancylostoma duodenale]</Hit_def>
+  <Hit_accession>NP_579952</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.314</Hsp_bit-score>
+      <Hsp_score>682</Hsp_score>
+      <Hsp_evalue>4.99706e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIVSQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMIFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGI+ QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM+FQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>ref|YP_004935200.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Baylisascaris procyonis]</Hit_def>
+  <Hit_accession>YP_004935200</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.314</Hsp_bit-score>
+      <Hsp_score>682</Hsp_score>
+      <Hsp_evalue>5.1061e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVMGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWV+GFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>ref|YP_009058864.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Parascaris univalens]</Hit_def>
+  <Hit_accession>YP_009058864</Hit_accession>
+  <Hit_len>522</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.314</Hsp_bit-score>
+      <Hsp_score>682</Hsp_score>
+      <Hsp_evalue>5.80089e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>244</Hsp_hit-from>
+      <Hsp_hit-to>383</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVMGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWV+GFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|YP_004300493.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Pristionchus pacificus]</Hit_def>
+  <Hit_accession>YP_004300493</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.314</Hsp_bit-score>
+      <Hsp_score>682</Hsp_score>
+      <Hsp_evalue>6.0034e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPVLLWVLGFIFLFTVGGLTGVILSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQP+LLWVLGFIFLFTVGGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>ref|YP_004935169.1|</Hit_id>
+  <Hit_def>COX1 gene product [Ascaris lumbricoides]</Hit_def>
+  <Hit_accession>YP_004935169</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>267.314</Hsp_bit-score>
+      <Hsp_score>682</Hsp_score>
+      <Hsp_evalue>6.26825e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVMGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWV+GFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>ref|NP_006949.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Ascaris suum]</Hit_def>
+  <Hit_accession>NP_006949</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.929</Hsp_bit-score>
+      <Hsp_score>681</Hsp_score>
+      <Hsp_evalue>6.61579e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVMGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWV+GFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>ref|YP_009353454.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Ancylostoma tubaeforme]</Hit_def>
+  <Hit_accession>YP_009353454</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.929</Hsp_bit-score>
+      <Hsp_score>681</Hsp_score>
+      <Hsp_evalue>6.61579e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIVSQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMIFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGI+ QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM+FQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>ref|YP_009024230.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Oesophagostomum columbianum]</Hit_def>
+  <Hit_accession>YP_009024230</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.929</Hsp_bit-score>
+      <Hsp_score>681</Hsp_score>
+      <Hsp_evalue>7.29064e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGALGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMIFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFG+LGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM+FQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>ref|YP_003433891.2|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Strongylus vulgaris]</Hit_def>
+  <Hit_accession>YP_003433891</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.929</Hsp_bit-score>
+      <Hsp_score>681</Hsp_score>
+      <Hsp_evalue>7.36974e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVYQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMV+QPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>ref|YP_004778171.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Baylisascaris schroederi]</Hit_def>
+  <Hit_accession>YP_004778171</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.929</Hsp_bit-score>
+      <Hsp_score>681</Hsp_score>
+      <Hsp_evalue>7.69486e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVMGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWV+GFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>ref|YP_004778134.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Baylisascaris transfuga]</Hit_def>
+  <Hit_accession>YP_004778134</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.929</Hsp_bit-score>
+      <Hsp_score>681</Hsp_score>
+      <Hsp_evalue>7.86275e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMVFQPLLLWVMGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWV+GFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>ref|YP_003667994.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Oesophagostomum quadrispinulatum]</Hit_def>
+  <Hit_accession>YP_003667994</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.929</Hsp_bit-score>
+      <Hsp_score>681</Hsp_score>
+      <Hsp_evalue>8.47975e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLAALFGMKMVFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LA LFGMKMVFQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>ref|YP_008963963.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Hypodontus macropi]</Hit_def>
+  <Hit_accession>YP_008963963</Hit_accession>
+  <Hit_len>523</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.544</Hsp_bit-score>
+      <Hsp_score>680</Hsp_score>
+      <Hsp_evalue>8.77972e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>245</Hsp_hit-from>
+      <Hsp_hit-to>384</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLYGMKMIFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATL+GMKM+FQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>ref|YP_003433727.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Trichostrongylus vitrinus]</Hit_def>
+  <Hit_accession>YP_003433727</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.544</Hsp_bit-score>
+      <Hsp_score>680</Hsp_score>
+      <Hsp_evalue>9.047e-85</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMSFQPVLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM FQP+LLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>ref|YP_002725698.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Bunostomum phlebotomum]</Hit_def>
+  <Hit_accession>YP_002725698</Hit_accession>
+  <Hit_len>524</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.544</Hsp_bit-score>
+      <Hsp_score>680</Hsp_score>
+      <Hsp_evalue>1.14236e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMIFQPVLLWVLGFIFLFTIGGLTGVILSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM+FQP+LLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>ref|YP_009445828.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Parascaris equorum]</Hit_def>
+  <Hit_accession>YP_009445828</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.544</Hsp_bit-score>
+      <Hsp_score>680</Hsp_score>
+      <Hsp_evalue>1.14713e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAIMSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSGLATLFGMKMVFQPLLLWVMGFIFLFTIGGLTGVMLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAI+ IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKMVFQPLLLWV+GFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>ref|YP_009347350.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Nippostrongylus brasiliensis]</Hit_def>
+  <Hit_accession>YP_009347350</Hit_accession>
+  <Hit_len>524</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.159</Hsp_bit-score>
+      <Hsp_score>679</Hsp_score>
+      <Hsp_evalue>1.25888e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMKFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM FQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>ref|YP_003434040.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Trichostrongylus axei]</Hit_def>
+  <Hit_accession>YP_003434040</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.159</Hsp_bit-score>
+      <Hsp_score>679</Hsp_score>
+      <Hsp_evalue>1.42346e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMNFQPVLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM FQP+LLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>ref|YP_007183101.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Bunostomum trigonocephalum]</Hit_def>
+  <Hit_accession>YP_007183101</Hit_accession>
+  <Hit_len>524</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.159</Hsp_bit-score>
+      <Hsp_score>679</Hsp_score>
+      <Hsp_evalue>1.43294e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMIFQPVLLWVLGFIFLFTIGGLTGVILSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM+FQP+LLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>ref|NP_579964.2|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Necator americanus]</Hit_def>
+  <Hit_accession>NP_579964</Hit_accession>
+  <Hit_len>524</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.159</Hsp_bit-score>
+      <Hsp_score>679</Hsp_score>
+      <Hsp_evalue>1.48009e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>131</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATMFGMKMVFQPVLLWVLGFIFLFTIGGLTGVILSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LAT+FGMKMVFQP+LLWVLGFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>ref|YP_009445095.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Marshallagia marshalli]</Hit_def>
+  <Hit_accession>YP_009445095</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.159</Hsp_bit-score>
+      <Hsp_score>679</Hsp_score>
+      <Hsp_evalue>1.48625e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMNFQPLLLWVMGFIFLFTIGGLTGVILSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM FQPLLLWV+GFIFLFT+GGLTGV+LSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>ref|NP_851331.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Cooperia oncophora]</Hit_def>
+  <Hit_accession>NP_851331</Hit_accession>
+  <Hit_len>526</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.159</Hsp_bit-score>
+      <Hsp_score>679</Hsp_score>
+      <Hsp_evalue>1.62695e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>248</Hsp_hit-from>
+      <Hsp_hit-to>387</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>133</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSSLYLTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMKFQPVLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QSSLYLTGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM FQP+LLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>ref|YP_009024218.1|</Hit_id>
+  <Hit_def>cytochrome c oxidase subunit I [Oesophagostomum asperum]</Hit_def>
+  <Hit_accession>YP_009024218</Hit_accession>
+  <Hit_len>525</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>266.159</Hsp_bit-score>
+      <Hsp_score>679</Hsp_score>
+      <Hsp_evalue>1.65561e-84</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>420</Hsp_query-to>
+      <Hsp_hit-from>247</Hsp_hit-from>
+      <Hsp_hit-to>386</Hsp_hit-to>
+      <Hsp_query-frame>1</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>132</Hsp_identity>
+      <Hsp_positive>136</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>140</Hsp_align-len>
+      <Hsp_qseq>HPEVYILILPAFGIIRQSSLYLTGKKEVFGSLGMVYAILRIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS*LATLFGMKMVFQPLLLWVLGFIFLFTVGGLTGVVLSNSSLDVILHDTYYVVSHFHY</Hsp_qseq>
+      <Hsp_hseq>HPEVYILILPAFGIISQSTLYSTGKKEVFGSLGMVYAILSIGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFSWLATLFGMKMIFQPLLLWVLGFIFLFTIGGLTGVVLSNSSLDIILHDTYYVVSHFHY</Hsp_hseq>
+      <Hsp_midline>HPEVYILILPAFGII QS+LY TGKKEVFGSLGMVYAIL IGLIGCVVWAHHMYTVGMDLDSRAYFTAATMVIAVPTGVKVFS LATLFGMKM+FQPLLLWVLGFIFLFT+GGLTGVVLSNSSLD+ILHDTYYVVSHFHY</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>167169650</Statistics_db-num>
+      <Statistics_db-len>63575512665</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
