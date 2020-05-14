@@ -1,0 +1,537 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastx</BlastOutput_program>
+  <BlastOutput_version>BLASTX 2.10.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>refseq_protein</BlastOutput_db>
+  <BlastOutput_query-ID>Query_34179</BlastOutput_query-ID>
+  <BlastOutput_query-def>DRR076693.39 39 length=602</BlastOutput_query-def>
+  <BlastOutput_query-len>602</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_34179</Iteration_query-ID>
+  <Iteration_query-def>DRR076693.39 39 length=602</Iteration_query-def>
+  <Iteration_query-len>602</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|NP_011803.3|</Hit_id>
+  <Hit_def>oligo-1,6-glucosidase IMA1 [Saccharomyces cerevisiae S288C]</Hit_def>
+  <Hit_accession>NP_011803</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.3882</Hsp_bit-score>
+      <Hsp_score>150</Hsp_score>
+      <Hsp_evalue>7.6887e-08</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>538</Hsp_hit-from>
+      <Hsp_hit-to>589</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>34</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI*RSE</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSDATDFKIPNDDSSFKLEFGNYPKKEVDASSRTLKPWEGRIYISE</Hsp_hseq>
+      <Hsp_midline>F  +   SDA DFKI  DDS+FKLEFGN  KKEVD SSR  KP EGRI  SE</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>43.8986</Hsp_bit-score>
+      <Hsp_score>102</Hsp_score>
+      <Hsp_evalue>0.142591</Hsp_evalue>
+      <Hsp_query-from>305</Hsp_query-from>
+      <Hsp_query-to>427</Hsp_query-to>
+      <Hsp_hit-from>547</Hsp_hit-from>
+      <Hsp_hit-to>587</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>41</Hsp_align-len>
+      <Hsp_qseq>ATDFKLPHYDSSFKFSFGNSPKQFLVPSSIPFMPSYGSLFI</Hsp_qseq>
+      <Hsp_hseq>ATDFKIPNDDSSFKLEFGNYPKKEVDASSRTLKPWEGRIYI</Hsp_hseq>
+      <Hsp_midline>ATDFK+P+ DSSFK  FGN PK+ +  SS    P  G ++I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|XP_033766888.1|</Hit_id>
+  <Hit_def>Ima3 [Saccharomyces paradoxus]</Hit_def>
+  <Hit_accession>XP_033766888</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>5.25226e-07</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>538</Hsp_hit-from>
+      <Hsp_hit-to>589</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI*RSE</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSDAIDFTIPNDDSSFKLEFGNYPKKEVDASSRTLKPWEGRIYISE</Hsp_hseq>
+      <Hsp_midline>F  +   SDA DF I  DDS+FKLEFGN  KKEVD SSR  KP EGRI  SE</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>39.6614</Hsp_bit-score>
+      <Hsp_score>91</Hsp_score>
+      <Hsp_evalue>3.80976</Hsp_evalue>
+      <Hsp_query-from>305</Hsp_query-from>
+      <Hsp_query-to>427</Hsp_query-to>
+      <Hsp_hit-from>547</Hsp_hit-from>
+      <Hsp_hit-to>587</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>41</Hsp_align-len>
+      <Hsp_qseq>ATDFKLPHYDSSFKFSFGNSPKQFLVPSSIPFMPSYGSLFI</Hsp_qseq>
+      <Hsp_hseq>AIDFTIPNDDSSFKLEFGNYPKKEVDASSRTLKPWEGRIYI</Hsp_hseq>
+      <Hsp_midline>A DF +P+ DSSFK  FGN PK+ +  SS    P  G ++I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|XP_033769007.1|</Hit_id>
+  <Hit_def>uncharacterized protein SPAR_O00030 [Saccharomyces paradoxus]</Hit_def>
+  <Hit_accession>XP_033769007</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>5.50654e-07</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>538</Hsp_hit-from>
+      <Hsp_hit-to>589</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI*RSE</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSDAIDFTIPNDDSSFKLEFGNYPKKEVDASSRTLKPWEGRIYISE</Hsp_hseq>
+      <Hsp_midline>F  +   SDA DF I  DDS+FKLEFGN  KKEVD SSR  KP EGRI  SE</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>39.6614</Hsp_bit-score>
+      <Hsp_score>91</Hsp_score>
+      <Hsp_evalue>3.84493</Hsp_evalue>
+      <Hsp_query-from>305</Hsp_query-from>
+      <Hsp_query-to>427</Hsp_query-to>
+      <Hsp_hit-from>547</Hsp_hit-from>
+      <Hsp_hit-to>587</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>41</Hsp_align-len>
+      <Hsp_qseq>ATDFKLPHYDSSFKFSFGNSPKQFLVPSSIPFMPSYGSLFI</Hsp_qseq>
+      <Hsp_hseq>AIDFTIPNDDSSFKLEFGNYPKKEVDASSRTLKPWEGRIYI</Hsp_hseq>
+      <Hsp_midline>A DF +P+ DSSFK  FGN PK+ +  SS    P  G ++I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|XP_033767083.1|</Hit_id>
+  <Hit_def>Ima3 [Saccharomyces paradoxus]</Hit_def>
+  <Hit_accession>XP_033767083</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>5.61166e-07</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>538</Hsp_hit-from>
+      <Hsp_hit-to>589</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>33</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI*RSE</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSDAIDFTIPNDDSSFKLEFGNYPKKEVDASSRTLKPWEGRIYISE</Hsp_hseq>
+      <Hsp_midline>F  +   SDA DF I  DDS+FKLEFGN  KKEVD SSR  KP EGRI  SE</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>39.6614</Hsp_bit-score>
+      <Hsp_score>91</Hsp_score>
+      <Hsp_evalue>3.80976</Hsp_evalue>
+      <Hsp_query-from>305</Hsp_query-from>
+      <Hsp_query-to>427</Hsp_query-to>
+      <Hsp_hit-from>547</Hsp_hit-from>
+      <Hsp_hit-to>587</Hsp_hit-to>
+      <Hsp_query-frame>2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>19</Hsp_identity>
+      <Hsp_positive>25</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>41</Hsp_align-len>
+      <Hsp_qseq>ATDFKLPHYDSSFKFSFGNSPKQFLVPSSIPFMPSYGSLFI</Hsp_qseq>
+      <Hsp_hseq>AIDFTIPNDDSSFKLEFGNYPKKEVDASSRTLKPWEGRIYI</Hsp_hseq>
+      <Hsp_midline>A DF +P+ DSSFK  FGN PK+ +  SS    P  G ++I</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>ref|XP_033766615.1|</Hit_id>
+  <Hit_def>Ima1 [Saccharomyces paradoxus]</Hit_def>
+  <Hit_accession>XP_033766615</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.5362</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>1.76054e-06</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>538</Hsp_hit-from>
+      <Hsp_hit-to>589</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI*RSE</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSDAIDFTIPNDNSSFKLEFGNYPKKEVDASSRTLKPWEGRIYISE</Hsp_hseq>
+      <Hsp_midline>F  +   SDA DF I  D+S+FKLEFGN  KKEVD SSR  KP EGRI  SE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|XP_018218769.1|</Hit_id>
+  <Hit_def>hypothetical protein DI49_5195 [Saccharomyces eubayanus]</Hit_def>
+  <Hit_accession>XP_018218769</Hit_accession>
+  <Hit_len>160</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.1434</Hsp_bit-score>
+      <Hsp_score>126</Hsp_score>
+      <Hsp_evalue>2.67875e-05</Hsp_evalue>
+      <Hsp_query-from>143</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>109</Hsp_hit-from>
+      <Hsp_hit-to>156</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSDNVDFTIPDDSTSFKLEFGNFPKKEVDASSRTLKPWEGRI</Hsp_hseq>
+      <Hsp_midline>F  +   SD  DF I  D ++FKLEFGN  KKEVD SSR  KP EGRI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|XP_018222853.1|</Hit_id>
+  <Hit_def>hypothetical protein DI49_1600 [Saccharomyces eubayanus]</Hit_def>
+  <Hit_accession>XP_018222853</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>54.6842</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>3.69648e-05</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>538</Hsp_hit-from>
+      <Hsp_hit-to>589</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>30</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI*RSE</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSDNVDFTIPDDSTSFKLEFGNFPKKEVDASSRTLKPWEGRIYXSE</Hsp_hseq>
+      <Hsp_midline>F  +   SD  DF I  D ++FKLEFGN  KKEVD SSR  KP EGRI  SE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|NP_014485.1|</Hit_id>
+  <Hit_def>oligo-1,6-glucosidase IMA2 [Saccharomyces cerevisiae S288C]</Hit_def>
+  <Hit_accession>NP_014485</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.9878</Hsp_bit-score>
+      <Hsp_score>123</Hsp_score>
+      <Hsp_evalue>0.000275874</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>538</Hsp_hit-from>
+      <Hsp_hit-to>589</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI*RSE</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSDSIDFTIPNNSSSFKLEFGNYPRSEVDASSRTLKPWEGRIYISE</Hsp_hseq>
+      <Hsp_midline>F  +   SD+ DF I  + S+FKLEFGN  + EVD SSR  KP EGRI  SE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|NP_012096.1|</Hit_id>
+  <Hit_def>oligo-1,6-glucosidase IMA3 [Saccharomyces cerevisiae S288C] &gt;ref|NP_012314.1| oligo-1,6-glucosidase IMA4 [Saccharomyces cerevisiae S288C]</Hit_def>
+  <Hit_accession>NP_012096</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.9878</Hsp_bit-score>
+      <Hsp_score>123</Hsp_score>
+      <Hsp_evalue>0.000281097</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>538</Hsp_hit-from>
+      <Hsp_hit-to>589</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI*RSE</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSDSIDFTIPNNSSSFKLEFGNYPRSEVDASSRTLKPWEGRIYISE</Hsp_hseq>
+      <Hsp_midline>F  +   SD+ DF I  + S+FKLEFGN  + EVD SSR  KP EGRI  SE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|XP_018223461.1|</Hit_id>
+  <Hit_def>hypothetical protein DI49_0078 [Saccharomyces eubayanus]</Hit_def>
+  <Hit_accession>XP_018223461</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.9878</Hsp_bit-score>
+      <Hsp_score>123</Hsp_score>
+      <Hsp_evalue>0.000317538</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>271</Hsp_query-to>
+      <Hsp_hit-from>543</Hsp_hit-from>
+      <Hsp_hit-to>589</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>47</Hsp_align-len>
+      <Hsp_qseq>LRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI*RSE</Hsp_qseq>
+      <Hsp_hseq>FSSENVDFTIPNDSSSFKLEFGNFPKKEVDASSRTLKPWEGRIYISE</Hsp_hseq>
+      <Hsp_midline>  S+  DF I  D S+FKLEFGN  KKEVD SSR  KP EGRI  SE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>ref|XP_018219937.1|</Hit_id>
+  <Hit_def>hypothetical protein DI49_3956 [Saccharomyces eubayanus]</Hit_def>
+  <Hit_accession>XP_018219937</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.6026</Hsp_bit-score>
+      <Hsp_score>122</Hsp_score>
+      <Hsp_evalue>0.000365483</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>265</Hsp_query-to>
+      <Hsp_hit-from>545</Hsp_hit-from>
+      <Hsp_hit-to>589</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>45</Hsp_align-len>
+      <Hsp_qseq>SDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI*RSE</Hsp_qseq>
+      <Hsp_hseq>SENVDFTIPNDSSSFKLEFGNFPKKEVDASSRTLKPWEGRIYISE</Hsp_hseq>
+      <Hsp_midline>S+  DF I  D S+FKLEFGN  KKEVD SSR  KP EGRI  SE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|XP_033766618.1|</Hit_id>
+  <Hit_def>Ima1 [Saccharomyces paradoxus]</Hit_def>
+  <Hit_accession>XP_033766618</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>50.447</Hsp_bit-score>
+      <Hsp_score>119</Hsp_score>
+      <Hsp_evalue>0.00105314</Hsp_evalue>
+      <Hsp_query-from>131</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>538</Hsp_hit-from>
+      <Hsp_hit-to>589</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>31</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>52</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI*RSE</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSEVIDFAIPNDSPSFNLEFGNYPKKEIDASSRTLKPWEGRVYISE</Hsp_hseq>
+      <Hsp_midline>F  +   S+  DF I  D  +F LEFGN  KKE+D SSR  KP EGR+  SE</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|XP_003678554.1|</Hit_id>
+  <Hit_def>hypothetical protein TDEL_0A00110 [Torulaspora delbrueckii]</Hit_def>
+  <Hit_accession>XP_003678554</Hit_accession>
+  <Hit_len>535</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.9726</Hsp_bit-score>
+      <Hsp_score>97</Hsp_score>
+      <Hsp_evalue>0.618039</Hsp_evalue>
+      <Hsp_query-from>143</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>477</Hsp_hit-from>
+      <Hsp_hit-to>524</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>28</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSDEISFEIPNDNLTYSLAFGNYSEEKVDPSLRSLKPWEGRI</Hsp_hseq>
+      <Hsp_midline>F  +   SD   F+I  D+ T+ L FGN  +++VD S R  KP EGRI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|XP_022626242.1|</Hit_id>
+  <Hit_def>uncharacterized protein LALA0_S01e00672g [Lachancea lanzarotensis]</Hit_def>
+  <Hit_accession>XP_022626242</Hit_accession>
+  <Hit_len>589</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>41.2022</Hsp_bit-score>
+      <Hsp_score>95</Hsp_score>
+      <Hsp_evalue>1.16212</Hsp_evalue>
+      <Hsp_query-from>143</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>538</Hsp_hit-from>
+      <Hsp_hit-to>585</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>21</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSTQAEFDIPKDDGSYKLVFGNISENDVDPQSRLLTPWEGRI</Hsp_hseq>
+      <Hsp_midline>F  +   S   +F I KDD ++KL FGN  + +VD  SR   P EGRI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>ref|XP_003680107.1|</Hit_id>
+  <Hit_def>hypothetical protein TDEL_0B07670 [Torulaspora delbrueckii]</Hit_def>
+  <Hit_accession>XP_003680107</Hit_accession>
+  <Hit_len>596</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>39.6614</Hsp_bit-score>
+      <Hsp_score>91</Hsp_score>
+      <Hsp_evalue>4.07291</Hsp_evalue>
+      <Hsp_query-from>143</Hsp_query-from>
+      <Hsp_query-to>286</Hsp_query-to>
+      <Hsp_hit-from>538</Hsp_hit-from>
+      <Hsp_hit-to>585</Hsp_hit-to>
+      <Hsp_query-frame>-2</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>20</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>48</Hsp_align-len>
+      <Hsp_qseq>FRGVVLRSDAKDFKITKDDSTFKLEFGN*QKKEVDESSRKWKPGEGRI</Hsp_qseq>
+      <Hsp_hseq>FAALNFSSDEISFEIPNDNLTYSLAFGNYSEEKVDPYLRSLKPWEGRI</Hsp_hseq>
+      <Hsp_midline>F  +   SD   F+I  D+ T+ L FGN  +++VD   R  KP EGRI</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>167169650</Statistics_db-num>
+      <Statistics_db-len>63575512665</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
