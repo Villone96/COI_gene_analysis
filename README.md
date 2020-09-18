@@ -9,5 +9,9 @@ Analysis about:
 
 
 
-![biosciences](https://user-images.githubusercontent.com/24355671/93598492-05395500-f9bd-11ea-8d02-d95be9941777.png)
+![biosciences]()
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/24355671/93598492-05395500-f9bd-11ea-8d02-d95be9941777.png">
+</p>
 
